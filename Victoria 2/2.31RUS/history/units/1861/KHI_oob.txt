@@ -1,0 +1,59 @@
+army = {
+	name = "Армия кунгратов"
+	location = 1195
+	regiment = {
+		name= "1-ый отряд"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "2-ой отряд"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "3-ий отряд"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "4-ый отряд"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "5-ый отряд"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "6-ой отряд"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "7-ой отряд"
+		type = irregular
+		home = 1195
+	}
+
+	regiment = {
+		name= "8-ой отряд"
+		type = irregular
+		home = 1195
+	}
+
+	regiment = {
+		name= "9-ый отряд"
+		type = irregular
+		home = 1195
+	}
+
+}
+

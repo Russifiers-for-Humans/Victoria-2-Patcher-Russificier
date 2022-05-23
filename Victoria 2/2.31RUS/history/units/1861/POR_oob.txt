@@ -1,0 +1,82 @@
+army = {
+	name = "Армия Португалии"
+	location = 524
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 524
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 524
+	}
+
+	regiment = {
+		name= "3-я пехотная дивизия"
+		type = infantry
+		home = 524
+	}
+
+	regiment = {
+		name= "4-я пехотная дивизия"
+		type = hussar
+		home = 524
+	}
+
+	regiment = {
+		name= "5-я пехотная дивизия"
+		type = infantry
+		home = 518
+	}
+
+	regiment = {
+		name= "6-я пехотная дивизия"
+		type = infantry
+		home = 518
+	}
+
+	regiment = {
+		name= "7-я пехотная дивизия"
+		type = infantry
+		home = 518
+	}
+
+}
+
+navy = {
+	name = "Португальский Флот"
+	location = 524
+	ship = {
+		name= "Васко да Гама"
+		type = manowar
+	}
+
+	ship = {
+		name= "Бартоломью Даиз"
+		type = frigate
+	}
+
+	ship = {
+		name= "Дом Фернандо II ди Глориа"
+		type = frigate
+	}
+
+	ship = {
+		name= "Эстефания"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "Транспортная Эскадра"
+	location = 524
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+

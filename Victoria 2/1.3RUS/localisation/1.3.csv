@@ -1,0 +1,90 @@
+disarming;Принудительное разоружение;X
+HAS_NOT_RECENTLY_LOST_WAR;За 5 лет НЕ было поражений в войне;X
+HAS_RECENTLY_LOST_WAR;За 5 лет были поражения в войне;X
+IN_SAME_SPHERE;Эта держава входит в ту же сферу влияния, что и мы.;X
+NOR_reactionary;Партия роялистов;X
+ATJ_reactionary;Националистическая партия;X
+ATJ_liberal;Либеральная партия;X
+ATJ_anarcho_liberal;Радикальная партия;X
+ATJ_socialist;Социалистическая партия;X
+ATJ_communist;Коммунистическая партия;X
+ATJ_fascist;Фашистская партия;X
+CAL_conservative;Демократическая партия;X
+KHI_conservative;Партия роялистов;X
+KHI_liberal;Либеральная партия;X
+KHI_reactionary;Националистическая партия;X
+KHI_anarcho_liberal;Радикальная партия;X
+KHI_socialist;Социалистическая партия;X
+KHI_communist;Коммунистическая партия;X
+KHI_fascist;Фашистская партия;X
+MAD_conservative;Партия роялистов;X
+MAD_liberal;Либеральная партия;X
+MAD_reactionary;Националистическая партия;X
+MAD_anarcho_liberal;Радикальная партия;X
+MAD_socialist;Социалистическая партия;X
+MAD_communist;Коммунистическая партия;X
+MAD_fascist;Фашистская партия;X
+TRI_conservative;Партия роялистов;X
+TRI_liberal;Либеральная партия;X
+TRI_reactionary;Националистическая партия;X
+TRI_anarcho_liberal;Радикальная партия;X
+TRI_socialist;Социалистическая партия;X
+TRI_communist;Коммунистическая партия;X
+TRI_fascist;Фашистская партия;X
+TEX_communist;Коммунистическая партия;X
+BAD_fascist;НСДП;X
+BAV_fascist;НСДП;X
+WEI_fascist;НСДП;X
+WLL_fascist;Рексистская партия;X
+NEW_fascist;Фашистская партия;X
+DIPLOMACY_CHANCE_JOIN_WAR;Шансы на присоединение к войне: §Y$VAL$§W;X
+PO_ISBETTER;Результаты отказа от этого предложения:\n §R+$MIL$§W к агрессивности, §R+$WE$§W к усталости от войны.;X
+leave_soi_title;Покинуть сферу влияния;X
+leave_soi_desc;Мы можем покинуть сферу влияния, однако после этого бывший хозяин, вероятно, объявит нам войну.;X
+NEW_PARTY_AVAIL_SETUP;Новая политическая партия;X
+NEW_PARTY_AVAIL_HEADER;Министр внутренних дел сообщает;X
+NEW_PARTY_AVAIL_1;Новая партия!;X
+NEW_PARTY_AVAIL_2;Появилась новая политическая партия:;X
+NEW_PARTY_AVAIL_3;$PARTY$.;X
+NEW_PARTY_AVAIL_4;*;X
+NEW_PARTY_AVAIL_5;*;X
+NEW_PARTY_AVAIL_6;*;X
+NEW_PARTY_AVAIL_BTN1;ОК;X
+NEW_PARTY_AVAIL_BTN2;ОК;X
+NEW_PARTY_AVAIL_BTN3;Перейти;X
+NEW_PARTY_AVAIL_LOG;Новая политическая партия.;X
+PARTY_UNAVAIL_SETUP;Роспуск политической партии;X
+PARTY_UNAVAIL_HEADER;Министр внутренних дел сообщает;X
+PARTY_UNAVAIL_1;Роспуск партии!;X
+PARTY_UNAVAIL_2;Прекращена деятельность партии:;X
+PARTY_UNAVAIL_3;$PARTY$.;X
+PARTY_UNAVAIL_4;*;X
+PARTY_UNAVAIL_5;*;X
+PARTY_UNAVAIL_6;*;X
+PARTY_UNAVAIL_BTN1;ОК;X
+PARTY_UNAVAIL_BTN2;ОК;X
+PARTY_UNAVAIL_BTN3;Перейти;X
+PARTY_UNAVAIL_LOG;Распущена партия;X
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Неплатежеспособность: §R$DAYS$§W дн.;X
+EXPENSE_NO_AFFORD;Мы можем расходовать только §R$VAL$§W¤!;X
+PRODUCTION_FACTORY_DAYSRED_TOOLTIP;Неплатежеспособность: §R$DAYS$§W дн.;X
+ENG_presidential_dictatorship;Великобритания;X
+EVTNAME16451;Набег на гарнизоны;X
+EVTDESC16451;В начале революции техасцы сумели захватить несколько мексиканских гарнизонов. Благодаря этому у техасской армии появились столь необходимые деньги и припасы.;X
+CB_ALLOWED_GUNBOAT;Принудительная выплата долга;X
+po_gunboat;Выплата долгов.;X
+IS_IN_DEFAULT_TO;Задерживает выплаты державе ;X
+IS_NOT_IN_DEFAULT_TO;Не задерживает выплаты державе ;X
+gunboat;Вернуть долги;X
+gunboat_desc;Заставьте их возобновить выплаты силой.;X
+gunboat_setup;Заставить их платить по долгам.;X
+gunboat_short;Вернуть долги;X
+EVTNAME70002;$FROMCOUNTRY$ - банкрот!;X
+EVTDESC70002;Держава $FROMCOUNTRY$ объявила себя банкротом и отказалась выплачивать долги! Интересы инвесторов требуют от нас применения силы!;X
+EVTOPTA70002;ОК;X
+USE_LEADER;Использовать командира;X
+SHORTCUT;§WКлавиша быстрого вызова: §Y;X
+SM_SHORTCUT;Подсказка о клавише быстрого вызова;X
+TUR_proletarian_dictatorship_ADJ;Турецк.;X
+move_capital_to_moscow_title;Вернуться в "Третий Рим";X
+move_capital_to_moscow_desc;Гордый Санкт-Петербург, град Петра Великого, расположен слишком близко к границе. Возможно, разумнее будет вернуть столицу обратно в первопрестольную Москву. Тогда врагу будет гораздо труднее добраться до центра страны...;X

@@ -1,0 +1,280 @@
+
+leader = {
+	name = "Томас Джексон"
+	type = land
+	date="1836.1.1"
+	personality = coolminded
+	background = school_of_defense
+	picture="european_general_37"
+}
+
+
+
+army = {
+	name = "Армия Северной Вирджинии"
+	location = 212
+
+	leader = {
+		name = "Роберт Э. Ли"
+		type = land
+		date="1821.1.1"
+		prestige = 0.2
+		personality = audacious
+		background = war_college
+		picture="european_general_38"
+	}
+
+	regiment = {
+		name= "1 Стрелки Вирджинии"
+		type = infantry
+		home = 211
+	}
+
+	regiment = {
+		name= "2 Стрелки Вирджинии"
+		type = infantry
+		home = 211
+	}
+
+	regiment = {
+		name= "3 Стрелки Вирджинии"
+		type = infantry
+		home = 211
+	}
+
+	regiment = {
+		name= "4 Стрелки Вирджинии"
+		type = artillery
+		home = 211
+	}
+
+	regiment = {
+		name= "5 Стрелки Вирджинии"
+		type = infantry
+		home = 214
+	}
+
+	regiment = {
+		name= "6 Стрелки Вирджинии"
+		type = infantry
+		home = 204
+	}
+
+	regiment = {
+		name= "7 Стрелки Вирджинии"
+		type = infantry
+		home = 215
+	}
+
+	regiment = {
+		name= "1 Стрелки Сев.Каролины"
+		type = infantry
+		home = 209
+	}
+
+	regiment = {
+		name= "2 Стрелки Сев.Каролины"
+		type = infantry
+		home = 209
+	}
+
+	regiment = {
+		name= "3 Стрелки Сев.Каролины"
+		type = infantry
+		home = 209
+	}
+
+}
+
+army = {
+	name = "Армия Шенандоа"
+	location = 215
+	regiment = {
+		name= "1 Стрелки Южн.Каролины"
+		type = infantry
+		home = 205
+	}
+
+	regiment = {
+		name= "2 Стрелки Южн.Каролины"
+		type = infantry
+		home = 205
+	}
+
+	regiment = {
+		name= "3 Стрелки Южн.Каролины"
+		type = infantry
+		home = 205
+	}
+
+	regiment = {
+		name= "1-й отряд кав. Техаса"
+		type = dragoon
+		home = 132
+	}
+
+	regiment = {
+		name= "2-й отряд кав. Техаса"
+		type = dragoon
+		home = 132
+	}
+
+	regiment = {
+		name= "3-й отряд кав. Техаса"
+		type = dragoon
+		home = 132
+	}
+
+}
+
+army = {
+	name = "Армия Теннесси"
+	location = 188
+	regiment = {
+		name= "1 Стрелки Теннесси"
+		type = infantry
+		home = 188
+	}
+
+	regiment = {
+		name= "2 Стрелки Теннесси"
+		type = infantry
+		home = 188
+	}
+
+	regiment = {
+		name= "3 Стрелки Теннесси"
+		type = infantry
+		home = 188
+	}
+
+}
+
+army = {
+	name = "Армия Запада"
+	location = 145
+	regiment = {
+		name= "1 Стрелки Алабамы"
+		type = infantry
+		home = 195
+	}
+
+	regiment = {
+		name= "2 Стрелки Алабамы"
+		type = infantry
+		home = 195
+	}
+
+	regiment = {
+		name= "3 Стрелки Алабамы"
+		type = infantry
+		home = 196
+	}
+
+}
+
+army = {
+	name = "Армия Миссисипи"
+	location = 189
+	regiment = {
+		name= "1 Стрелки Миссисипи"
+		type = infantry
+		home = 192
+	}
+
+	regiment = {
+		name= "2 Стрелки Миссиссипи"
+		type = infantry
+		home = 192
+	}
+
+	regiment = {
+		name= "3 Стрелки Миссисипи"
+		type = infantry
+		home = 192
+	}
+
+}
+
+army = {
+	name = "Гарнизон Норфолка"
+	location = 214
+	regiment = {
+		name= "1 Стрелки Луизианы"
+		type = infantry
+		home = 141
+	}
+
+	regiment = {
+		name= "2 Стрелки Луизианы"
+		type = infantry
+		home = 140
+	}
+
+	regiment = {
+		name= "3 Стрелки Луизианы"
+		type = infantry
+		home = 139
+	}
+
+}
+
+army = {
+	name = "Армия Вирджинии"
+
+	leader = {
+		name = "Джеймс Юэлл Браун 'Джеб' Стюарт"
+		type = land
+		date="1836.1.1"
+		personality = audacious
+		background = cavalry_school
+		picture="european_general_32"
+	}
+
+	location = 213
+	regiment = {
+		name= "1 Стрелки Техаса"
+		type = infantry
+		home = 133
+	}
+
+	regiment = {
+		name= "2 Стрелки Техаса"
+		type = infantry
+		home = 133
+	}
+
+	regiment = {
+		name= "3 Стрелки Техаса"
+		type = infantry
+		home = 134
+	}
+
+	regiment = {
+		name= "4 Стрелки Техаса"
+		type = artillery
+		home = 136
+	}
+
+}
+
+navy = {
+	name = "ВМС КША"
+	location = 204
+	ship = {
+		name= "CSS Самтер"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "CSS Алабама"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "CSS Флорида"
+		type = commerce_raider
+	}
+
+}
+

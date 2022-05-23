@@ -1,0 +1,23 @@
+army = {
+	name = "Губернаторская армия"
+	location = 1224
+	regiment = {
+		name= "1-ый отряд"
+		type = irregular
+		home = 1224
+	}
+
+	regiment = {
+		name= "2-ой отряд"
+		type = irregular
+		home = 1224
+	}
+
+	regiment = {
+		name= "3-ий отряд"
+		type = irregular
+		home = 1224
+	}
+
+}
+

@@ -1,0 +1,195 @@
+army = {
+	name = "North Army"
+	location = 1649
+	regiment = {
+		name= "1.1/Imperial Army"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "2.1/Imperial Army"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "3.1/Imperial Army"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "1.2/Imperial Army"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "2.2/Imperial Army"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "3.2/Imperial Army"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "1.3/Imperial Army"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "2.3/Imperial Army"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "3.3/Imperial Army"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "1.4/Imperial Army"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "2.4/Imperial Army"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "3.4/Imperial Army"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "1.5/Imperial Army"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "2.5/Imperial Army"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "3.5/Imperial Army"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "1.6/Imperial Army"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "2.6/Imperial Army"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "3.6/Imperial Army"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "1.7/Imperial Army"
+		type = irregular
+		home = 1657
+	}
+
+	regiment = {
+		name= "2.7/Imperial Army"
+		type = irregular
+		home = 1657
+	}
+
+	regiment = {
+		name= "3.7/Imperial Army"
+		type = irregular
+		home = 1657
+	}
+
+	
+
+}
+
+army = {
+	name = "Shikoku Army"
+	location = 1667
+	regiment = {
+		name= "1.23/Imperial Army"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "2.23/Imperial Army"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "3.23/Imperial Army"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "1.24/Imperial Army"
+		type = irregular
+		home = 1675
+	}
+
+	regiment = {
+		name= "2.24/Imperial Army"
+		type = irregular
+		home = 1675
+	}
+
+	regiment = {
+		name= "3.24/Imperial Army"
+		type = irregular
+		home = 1675
+	}
+
+
+}
+
+navy = {
+	name = "Japanese Fleet"
+	location = 1650
+	ship = {
+		name= "Choyo Maru"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Kanko Maru"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Kanrin Maru"
+		type = commerce_raider
+	}
+
+}
+

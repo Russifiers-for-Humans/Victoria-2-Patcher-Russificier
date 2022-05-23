@@ -1,0 +1,59 @@
+army = {
+	name = "Royal Army"
+	location = 1195
+	regiment = {
+		name= "1.1/Royal Army"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "2.1/Royal Army"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "3.1/Royal Army"
+		type = irregular
+		home = 1192
+	}
+
+	regiment = {
+		name= "1.2/Royal Army"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "2.2/Royal Army"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "3.2/Royal Army"
+		type = irregular
+		home = 1193
+	}
+
+	regiment = {
+		name= "1.3/Royal Army"
+		type = irregular
+		home = 1195
+	}
+
+	regiment = {
+		name= "2.3/Royal Army"
+		type = irregular
+		home = 1195
+	}
+
+	regiment = {
+		name= "3.3/Royal Army"
+		type = irregular
+		home = 1195
+	}
+
+}
+

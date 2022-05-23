@@ -1,0 +1,255 @@
+army = {
+	name = "I Корпус"
+	location = 375
+	regiment = {
+		name= "1-я дивизия"
+		type = infantry
+		home = 375
+	}
+
+	regiment = {
+		name= "2-я дивизия"
+		type = infantry
+		home = 375
+	}
+
+	regiment = {
+		name= "3-я дивизия"
+		type = infantry
+		home = 375
+	}
+
+	regiment = {
+		name= "1-й дивизион"
+		type = cuirassier
+		home = 375
+	}
+
+	regiment = {
+		name= "4-я дивизия"
+		type = infantry
+		home = 376
+	}
+
+	regiment = {
+		name= "5-я дивизия"
+		type = infantry
+		home = 376
+	}
+
+	regiment = {
+		name= "6-я дивизия"
+		type = infantry
+		home = 376
+	}
+
+}
+
+army = {
+	name = "II Корпус"
+	location = 380
+	regiment = {
+		name= "7-я дивизия"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name= "8-я дивизия"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name= "9-я дивизия"
+		type = infantry
+		home = 380
+	}
+
+	regiment = {
+		name= "10-я дивизия"
+		type = engineer
+		home = 380
+	}
+
+	regiment = {
+		name= "11-я дивизия"
+		type = infantry
+		home = 379
+	}
+
+	regiment = {
+		name= "12-я дивизия"
+		type = infantry
+		home = 379
+	}
+
+	regiment = {
+		name= "13-я дивизия"
+		type = infantry
+		home = 379
+	}
+
+}
+
+army = {
+	name = "III Корпус"
+	location = 383
+	regiment = {
+		name= "14-я дивизия"
+		type = infantry
+		home = 383
+	}
+
+	regiment = {
+		name= "15-я дивизия"
+		type = infantry
+		home = 383
+	}
+
+	regiment = {
+		name= "16-я дивизия"
+		type = infantry
+		home = 383
+	}
+
+}
+
+army = {
+	name = "IV Корпус"
+	location = 1414
+	regiment = {
+		name= "1-й колониальный полк"
+		type = infantry
+		home = 1414
+	}
+
+	regiment = {
+		name= "2-й колониальный полк"
+		type = infantry
+		home = 1414
+	}
+
+	regiment = {
+		name= "3-й колониальный полк"
+		type = infantry
+		home = 1414
+	}
+
+}
+
+navy = {
+	name = "Голландский Флот"
+	location = 375
+	ship = {
+		name= "Вильгельм Оранский"
+		type = manowar
+	}
+
+	ship = {
+		name= "Тромп"
+		type = manowar
+	}
+
+	ship = {
+		name= "Семь Провинций"
+		type = manowar
+	}
+
+	ship = {
+		name= "Де Рейтер"
+		type = frigate
+	}
+
+	ship = {
+		name= "Зеланд"
+		type = frigate
+	}
+
+	ship = {
+		name= "Роттердам"
+		type = frigate
+	}
+
+	ship = {
+		name= "Маастрихт"
+		type = frigate
+	}
+
+	ship = {
+		name= "Кюрасао"
+		type = frigate
+	}
+
+	ship = {
+		name= "Батавия"
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "1-я Транспортная Эскадра"
+	location = 375
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2-я транспортная флотилия"
+		type = steam_transport
+	}
+
+}
+
+navy = {
+	name = "Ост-Индийская Эскадра"
+	location = 1412
+	ship = {
+		name= "Aдмирал Ван Вассенар"
+		type = frigate
+	}
+
+	ship = {
+		name= "Адольф Хертог ван Нассау"
+		type = frigate
+	}
+
+	ship = {
+		name= "Евертзен"
+		type = frigate
+	}
+
+	ship = {
+		name= "Бреда"
+		type = frigate
+	}
+
+	ship = {
+		name= "Зволле"
+		type = frigate
+	}
+
+	ship = {
+		name= "Гроннинген"
+		type = frigate
+	}
+
+	ship = {
+		name= "Левуарден"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "2-я Транспортная Эскадра"
+	location = 1412
+	ship = {
+		name= "3-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+

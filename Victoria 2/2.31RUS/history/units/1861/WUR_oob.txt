@@ -1,0 +1,29 @@
+army = {
+	name = "Княжеская Армия"
+	location = 589
+	regiment = {
+		name= "1-я вюртембергская дивизия"
+		type = infantry
+		home = 589
+	}
+
+	regiment = {
+		name= "2-я вюртембергская дивизия"
+		type = infantry
+		home = 589
+	}
+
+	regiment = {
+		name= "3-я вюртембергская дивизия"
+		type = infantry
+		home = 589
+	}
+
+	regiment = {
+		name= "4-я вюртембергская дивизия"
+		type = artillery
+		home = 589
+	}
+
+}
+

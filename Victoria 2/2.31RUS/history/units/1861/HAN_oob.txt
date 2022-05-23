@@ -1,0 +1,29 @@
+army = {
+	name = "X Корпус"
+	location = 534
+	regiment = {
+		name= "1-я дивизия"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "2-я дивизия"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "3-я дивизия"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "4-я дивизия"
+		type = artillery
+		home = 534
+	}
+
+}
+

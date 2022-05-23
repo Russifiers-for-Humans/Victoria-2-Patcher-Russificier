@@ -1,0 +1,79 @@
+army = {
+	name = "Добровольческая Армия"
+	location = 2105
+	regiment = {
+		name= "1-е ополчение буров"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "2-е ополчение буров"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "3-е ополчение буров"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "4-е ополчение буров"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "5-е ополчение буров"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "6-е ополчение буров"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "7-е ополчение буров"
+		type = infantry
+		home = 2107
+	}
+
+	regiment = {
+		name= "8-е ополчение буров"
+		type = infantry
+		home = 2107
+	}
+
+	regiment = {
+		name= "9-е ополчение буров"
+		type = infantry
+		home = 2107
+	}
+
+
+
+	regiment = {
+		name= "10-е ополчение буров"
+		type = infantry
+		home = 2106
+	}
+
+	regiment = {
+		name= "11-е ополчение буров"
+		type = infantry
+		home = 2106
+	}
+
+	regiment = {
+		name= "12-е ополчение буров"
+		type = infantry
+		home = 2106
+	}
+
+}
+

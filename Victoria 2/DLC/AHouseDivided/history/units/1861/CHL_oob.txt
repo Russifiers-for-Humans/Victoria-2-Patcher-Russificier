@@ -1,0 +1,66 @@
+army = {
+	name = "Ejército de Chile"
+	location = 2324
+	regiment = {
+		name= "1.1ra división de infantería"
+		type = infantry
+		home = 2324
+	}
+
+	regiment = {
+		name= "2.1ra división de infantería"
+		type = infantry
+		home = 2324
+	}
+
+	regiment = {
+		name= "3.1ra división de infantería"
+		type = infantry
+		home = 2324
+	}
+
+	regiment = {
+		name= "1.1ra división de caballería"
+		type = cavalry
+		home = 2324
+	}
+
+	regiment = {
+		name= "2.1ra división de caballería"
+		type = cavalry
+		home = 2324
+	}
+
+	regiment = {
+		name= "3.1ra división de caballería"
+		type = cavalry
+		home = 2324
+	}
+
+}
+
+navy = {
+	name = "Chilean Fleet"
+	location = 2325
+	ship = {
+		name= "Esmeralda"
+		type = frigate
+	}
+
+	ship = {
+		name= "Maipu"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "1st Transport Squadron"
+	location = 2325
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+

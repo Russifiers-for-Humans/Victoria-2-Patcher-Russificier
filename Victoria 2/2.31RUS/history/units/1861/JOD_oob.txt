@@ -1,0 +1,41 @@
+army = {
+	name = "Королевская армия"
+	location = 1266
+	regiment = {
+		name= "1-ый отряд"
+		type = irregular
+		home = 1266
+	}
+
+	regiment = {
+		name= "2-ой отряд"
+		type = irregular
+		home = 1266
+	}
+
+	regiment = {
+		name= "3-ий отряд"
+		type = irregular
+		home = 1266
+	}
+
+	regiment = {
+		name= "4-ый отряд"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "5-ый отряд"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "6-ой отряд"
+		type = irregular
+		home = 0
+	}
+
+}
+

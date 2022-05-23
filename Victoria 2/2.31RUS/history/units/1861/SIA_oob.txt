@@ -1,0 +1,149 @@
+army = {
+	name = "Королевская армия"
+	location = 1346
+	regiment = {
+		name= "1-й королевский отряд"
+		type = irregular
+		home = 1366
+	}
+
+	regiment = {
+		name= "2-й королевский отряд"
+		type = irregular
+		home = 1366
+	}
+
+	regiment = {
+		name= "3-й королевский отряд"
+		type = irregular
+		home = 1366
+	}
+
+	regiment = {
+		name= "4-й королевский отряд"
+		type = irregular
+		home = 1361
+	}
+
+	regiment = {
+		name= "5-й королевский отряд"
+		type = irregular
+		home = 1361
+	}
+
+	regiment = {
+		name= "6-й королевский отряд"
+		type = irregular
+		home = 1361
+	}
+
+	regiment = {
+		name= "7-й королевский отряд"
+		type = irregular
+		home = 1362
+	}
+
+	regiment = {
+		name= "8-й королевский отряд"
+		type = irregular
+		home = 1362
+	}
+
+	regiment = {
+		name= "9-й королевский отряд"
+		type = irregular
+		home = 1362
+	}
+
+	regiment = {
+		name= "10-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "11-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "12-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "13-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "14-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "15-й королевский отряд"
+		type = irregular
+		home = 1346
+	}
+
+	regiment = {
+		name= "16-й королевский отряд"
+		type = irregular
+		home = 1348
+	}
+
+	regiment = {
+		name= "17-й королевский отряд"
+		type = irregular
+		home = 1348
+	}
+
+	regiment = {
+		name= "18-й королевский отряд"
+		type = irregular
+		home = 1348
+	}
+
+	regiment = {
+		name= "19-й королевский отряд"
+		type = irregular
+		home = 1353
+	}
+
+	regiment = {
+		name= "20-й королевский отряд"
+		type = irregular
+		home = 1353
+	}
+
+	regiment = {
+		name= "21-й королевский отряд"
+		type = irregular
+		home = 1353
+	}
+
+	regiment = {
+		name= "22-й королевский отряд"
+		type = irregular
+		home = 1358
+	}
+
+	regiment = {
+		name= "23-й королевский отряд"
+		type = irregular
+		home = 1358
+	}
+
+	regiment = {
+		name= "24-й королевский отряд"
+		type = irregular
+		home = 1358
+	}
+
+}
+

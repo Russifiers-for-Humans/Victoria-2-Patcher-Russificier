@@ -1,0 +1,203 @@
+army = {
+	name = "Армия племени Хауса"
+	location = 1948
+	regiment = {
+		name= "1-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "2-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "3-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "4-й племенной отряд"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "5-й племенной отряд"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "6-й племенной отряд"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "7-й племенной отряд"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "8-й племенной отряд"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "9-й племенной отряд"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "10-й племенной отряд"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "11-й племенной отряд"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "12-й племенной отряд"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "13-й племенной отряд"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "14-й племенной отряд"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "15-й племенной отряд"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "16-й племенной отряд"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "17-й племенной отряд"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "18-й племенной отряд"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "19-й племенной отряд"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "20-й племенной отряд"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "21-й племенной отряд"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "22-й племенной отряд"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "23-й племенной отряд"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "24-й племенной отряд"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "25-й племенной отряд"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "26-й племенной отряд"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "27-й племенной отряд"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "28-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "29-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "30-й племенной отряд"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "31-й племенной отряд"
+		type = irregular
+		home = 1941
+	}
+
+	regiment = {
+		name= "32-й племенной отряд"
+		type = irregular
+		home = 1941
+	}
+
+	regiment = {
+		name= "33-й племенной отряд"
+		type = irregular
+		home = 1941
+	}
+
+}
+

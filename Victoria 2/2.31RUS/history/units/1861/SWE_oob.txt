@@ -1,0 +1,180 @@
+army = {
+	name = "Армия Швеции"
+	location = 322
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "3-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "4-я пехотная дивизия"
+		type = guard
+		home = 322
+	}
+
+	regiment = {
+		name= "5-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "6-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "7-я пехотная дивизия"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "1-й драгунский дивизион"
+		type = dragoon
+		home = 322
+	}
+
+	regiment = {
+		name= "2-й драгунский дивизион"
+		type = dragoon
+		home = 322
+	}
+
+	regiment = {
+		name= "3-й драгунский дивизион"
+		type = dragoon
+		home = 322
+	}
+
+}
+
+navy = {
+	name = "Флот Швеции"
+	location = 322
+	ship = {
+		name= "Карл XIV Йоханн"
+		type = manowar
+	}
+
+	ship = {
+		name= "Стокгольм"
+		type = manowar
+	}
+
+	ship = {
+		name= "Фюдернесландет"
+		type = manowar
+	}
+
+	ship = {
+		name= "Бран"
+		type = manowar
+	}
+
+	ship = {
+		name= "Дристигетен"
+		type = manowar
+	}
+
+	ship = {
+		name= "Kарл XIII"
+		type = manowar
+	}
+
+	ship = {
+		name= "Манлигетен"
+		type = manowar
+	}
+
+	ship = {
+		name= "Принс Оскар"
+		type = manowar
+	}
+
+	ship = {
+		name= "Скандинавиен"
+		type = manowar
+	}
+
+	ship = {
+		name= "Дезире"
+		type = frigate
+	}
+
+	ship = {
+		name= "Готеборг"
+		type = frigate
+	}
+
+	ship = {
+		name= "Жозефин"
+		type = frigate
+	}
+
+	ship = {
+		name= "Осло"
+		type = frigate
+	}
+
+	ship = {
+		name= "Принс"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "1-я Транспортная Эскадра"
+	location = 322
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "Норвежский Флот"
+	location = 316
+	ship = {
+		name= "Конг Сверре"
+		type = frigate
+	}
+
+	ship = {
+		name= "Св. Олаф"
+		type = frigate
+	}
+
+	ship = {
+		name= "Лилла Фениск"
+		type = frigate
+	}
+
+	ship = {
+		name= "Барон Густаф Бонде"
+		type = frigate
+	}
+
+}
+

@@ -1,0 +1,341 @@
+#Sphere of Influence
+
+JAP = {
+	value = 130		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+leader = {
+	name = "Уильям Т. Шерман"
+	type = land
+	date="1836.1.1"
+	personality = audacious
+	background = school_of_offense
+	picture="european_general_53"
+}
+
+army = {
+	name = "Гарнизон Вашингтона"
+	location = 220
+	regiment = {
+		name= "1-я дивизия"
+		type = infantry
+		home = 245
+	}
+
+	regiment = {
+		name= "2-я дивизия"
+		type = infantry
+		home = 245
+	}
+
+	regiment = {
+		name= "3-я дивизия"
+		type = infantry
+		home = 245
+	}
+
+	regiment = {
+		name= "4-я дивизия"
+		type = infantry
+		home = 249
+	}
+
+
+}
+
+army = {
+	name = "Потомакская Армия"
+	location = 220
+	regiment = {
+		name= "1-я бригада 'Черных Шляп' "
+		type = infantry
+		home = 220
+	}
+
+	regiment = {
+		name= "2-я бригада 'Черных Шляп'"
+		type = infantry
+		home = 220
+	}
+
+	regiment = {
+		name= "3-я бригада 'Черных Шляп' "
+		type = artillery
+		home = 220
+	}
+
+	regiment = {
+		name= "1-я Нью-Джерсийская бригада"
+		type = infantry
+		home = 234
+	}
+
+	regiment = {
+		name= "2-я Нью-Джерсийская бригада"
+		type = infantry
+		home = 234
+	}
+
+	regiment = {
+		name= "1-я артиллерийская бригада"
+		type = artillery
+		home = 234
+	}
+
+	regiment = {
+		name= "Ирландская бригада"
+		type = infantry
+		home = 234
+	}
+
+	regiment = {
+		name= "1-я Вермонтская бригада"
+		type = infantry
+		home = 234
+	}
+
+	regiment = {
+		name= "2-я Вермонтская бригада"
+		type = artillery
+		home = 234
+	}
+
+	regiment = {
+		name= "3-я Вермонтская бригада"
+		type = infantry
+		home = 226
+	}
+
+	regiment = {
+		name= "3-я Нью-Джерсийская бригада"
+		type = infantry
+		home = 226
+	}
+
+	regiment = {
+		name= "'Железная бригада'"
+		type = infantry
+		home = 226
+	}
+
+}
+
+army = {
+	name = "Армия Джеймс-Ривер"
+	location = 221
+	regiment = {
+		name= "5-я дивизия"
+		type = infantry
+		home = 178
+	}
+
+	regiment = {
+		name= "6-я дивизия"
+		type = infantry
+		home = 178
+	}
+
+	regiment = {
+		name= "7-я дивизия"
+		type = infantry
+		home = 178
+	}
+
+	regiment = {
+		name= "8-я дивизия"
+		type = infantry
+		home = 170
+	}
+
+	regiment = {
+		name= "10-я дивизия"
+		type = infantry
+		home = 170
+	}
+}
+
+army = {
+	name = "Армия Миссисипи"
+	
+	leader = {
+		name = "Филипп Шеридан"
+		type = land
+		date="1836.1.1"
+		personality = audacious
+		background = cavalry_school
+		picture="european_general_13"
+	}
+
+	location = 146
+	regiment = {
+		name= "11-я дивизия Миссисипи"
+		type = infantry
+		home = 146
+	}
+
+	regiment = {
+		name= "12-я дивизия Миссисипи"
+		type = infantry
+		home = 146
+	}
+
+	regiment = {
+		name= "13-я дивизия Миссисипи"
+		type = infantry
+		home = 146
+	}
+
+}
+
+army = {
+	name = "Армия Огайо"
+
+	leader = {
+		name = "Улисс С. Грант"
+		type = land
+		date="1821.1.1"
+		prestige = 0.15
+		personality = aggressive
+		background = natural_born_leader
+		picture="european_general_31"
+	}
+
+	location = 181
+	regiment = {
+		name= "14-я дивизия Огайо"
+		type = infantry
+		home = 181
+	}
+
+	regiment = {
+		name= "15-я дивизия Огайо"
+		type = infantry
+		home = 181
+	}
+
+	regiment = {
+		name= "16-я дивизия Огайо"
+		type = infantry
+		home = 181
+	}
+
+	regiment = {
+		name= "1-й кав. дивизион"
+		type = cavalry
+		home = 181
+	}
+
+	regiment = {
+		name= "2-й кав. дивизион"
+		type = cavalry
+		home = 181
+	}
+
+	regiment = {
+		name= "3-й кав. дивизион"
+		type = cavalry
+		home = 182
+	}
+
+}
+
+army = {
+	name = "Отряд Зап.Вирджинии"
+	location = 217
+	regiment = {
+		name= "17-я дивизия"
+		type = infantry
+		home = 228
+	}
+
+	regiment = {
+		name= "18-я дивизия"
+		type = infantry
+		home = 228
+	}
+
+	regiment = {
+		name= "19-я дивизия"
+		type = infantry
+		home = 228
+	}
+
+}
+
+navy = {
+	name = "ВМС США"
+	location = 219
+	ship = {
+		name= "USS Франклин"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Потомак"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Роанок"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Санти"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Саванна"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Св. Лоуренс"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Вэбаш"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Поухатан"
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "1-я Транспортная Эксадра"
+	location = 219
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "Атлантическая Эскадра"
+	location = 219
+	ship = {
+		name= "USS Колорадо"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Миннесота"
+		type = frigate
+	}
+
+	ship = {
+		name= "USS Миссиссипи"
+		type = commerce_raider
+	}
+
+}
+

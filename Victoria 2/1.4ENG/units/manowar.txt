@@ -1,0 +1,34 @@
+manowar = {
+	icon = 4
+	
+	type = naval
+	sprite = Manowar
+	unit_type = big_ship
+	capital = yes
+
+	#Core Abilities
+	priority = 25
+	max_strength = 100
+	default_organisation = 30
+	maximum_speed = 5
+
+
+	#Building Costs
+	build_time = 360
+	build_cost = {
+		clipper_convoy = 15
+		artillery = 10
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		clipper_convoy = 0.24
+		artillery = 0.08 #0.16
+	}
+	
+
+	#Naval Abilties
+	hull = 4
+	gun_power = 8
+}
+

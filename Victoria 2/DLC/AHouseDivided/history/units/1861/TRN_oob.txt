@@ -1,0 +1,79 @@
+army = {
+	name = "Volunteer Army"
+	location = 2105
+	regiment = {
+		name= "1.1. Boer Militia"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "2.1. Boer Militia"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "3.1. Boer Militia"
+		type = infantry
+		home = 2105
+	}
+
+	regiment = {
+		name= "1.2. Boer Militia"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "2.2. Boer Militia"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "3.2. Boer Militia"
+		type = infantry
+		home = 2109
+	}
+
+	regiment = {
+		name= "1.3. Boer Militia"
+		type = infantry
+		home = 2107
+	}
+
+	regiment = {
+		name= "2.3. Boer Militia"
+		type = infantry
+		home = 2107
+	}
+
+	regiment = {
+		name= "3.3. Boer Militia"
+		type = infantry
+		home = 2107
+	}
+
+
+
+	regiment = {
+		name= "1.4. Boer Militia"
+		type = infantry
+		home = 2106
+	}
+
+	regiment = {
+		name= "2.4. Boer Militia"
+		type = infantry
+		home = 2106
+	}
+
+	regiment = {
+		name= "3.4. Boer Militia"
+		type = infantry
+		home = 2106
+	}
+
+}
+

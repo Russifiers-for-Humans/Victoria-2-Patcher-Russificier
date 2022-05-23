@@ -1,0 +1,41 @@
+army = {
+	name = "Национальная армия"
+	location = 2360
+	regiment = {
+		name= "1-я Пехотная Дивизия"
+		type = infantry
+		home = 2349
+	}
+
+	regiment = {
+		name= "2-я Пехотная Дивизия"
+		type = infantry
+		home = 2349
+	}
+
+	regiment = {
+		name= "3-я Пехотная Дивизия"
+		type = infantry
+		home = 2349
+	}
+
+	regiment = {
+		name= "1-й Кавалерийский Дивизион"
+		type = cavalry
+		home = 2349
+	}
+
+	regiment = {
+		name= "2-й Кавалерийский Дивизион"
+		type = cavalry
+		home = 2349
+	}
+
+	regiment = {
+		name= "3-й Кавадерийский Дивизион"
+		type = cavalry
+		home = 2349
+	}
+
+}
+

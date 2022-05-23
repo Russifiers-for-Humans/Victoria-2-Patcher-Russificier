@@ -1,0 +1,160 @@
+GREAT_WARS_ENABLED_DESC;'The Great War' открыты;x
+GREAT_WARS_DISABLED_DESC;'The Great War' еще не открыты;x
+GREAT_WARS_ENABLE_DESC;Войны могут получать статус 'The Great War!';x
+GREAT_WAR_NAME;$ORDER$ 'The Great War';x
+GW_DISCOVERED_SETUP;Когда 'The Great War' октрыты;x
+GW_DISCOVERED_HEADER;'The Great War' открыта!;x
+GW_DISCOVERED_1;'The Great War' обнаружена! ;x
+GW_DISCOVERED_2;С этого времени, каждая война, которая включает ;x
+GW_DISCOVERED_3;по крайней мере две Великие страны ;x
+GW_DISCOVERED_4;на каждой стороне, получит статус ;x
+GW_DISCOVERED_5;§Y'The Great War'§!.;x
+GW_DISCOVERED_6;*;x
+GW_DISCOVERED_BTN1;OK;x
+GW_DISCOVERED_BTN2;OK;x
+GW_DISCOVERED_BTN3;Перейти к;x
+GW_DISCOVERED_LOG;'The Great War' открыты;x
+WAR_GAIN_GW_STATUS_SETUP;Когда наша война получает статус 'The Great War'.;x
+WAR_GAIN_GW_STATUS_HEADER;'The Great War!';x
+WAR_GAIN_GW_STATUS_1;$WAR$;x
+WAR_GAIN_GW_STATUS_2;получила статус ;x
+WAR_GAIN_GW_STATUS_3;§Y'The Great War'§!.;x
+WAR_GAIN_GW_STATUS_4;*;x
+WAR_GAIN_GW_STATUS_5;*;x
+WAR_GAIN_GW_STATUS_6;*;x
+WAR_GAIN_GW_STATUS_BTN1;OK;x
+WAR_GAIN_GW_STATUS_BTN2;OK;x
+WAR_GAIN_GW_STATUS_BTN3;Перейти к;x
+WAR_GAIN_GW_STATUS_LOG;$WAR$ получила статус §Y'The Great War'§!;x
+WAR_LOST_GW_STATUS_SETUP;Когда наша война теряет статус 'The Great War'.;x
+WAR_LOST_GW_STATUS_HEADER;Потеряла статус 'The Great War!';x
+WAR_LOST_GW_STATUS_1;$WAR$;x
+WAR_LOST_GW_STATUS_2;потеряла статус ;x
+WAR_LOST_GW_STATUS_3;§'The Great War'§!.;x
+WAR_LOST_GW_STATUS_4;*;x
+WAR_LOST_GW_STATUS_5;*;x
+WAR_LOST_GW_STATUS_6;*;x
+WAR_LOST_GW_STATUS_BTN1;OK;x
+WAR_LOST_GW_STATUS_BTN2;OK;x
+WAR_LOST_GW_STATUS_BTN3;Перейти к;x
+WAR_LOST_GW_STATUS_LOG;$WAR$ потеряла статус §Y'The Great War'§!;x
+GW_INTERVENE_MIN_RELATIONS;Наши отношения с §Y$TARGET$§! должны быть не ниже §G$MIN$§!. Сейчас они на уровне §Y$VAL$§!.;x
+GW_INTERVENE_MAX_EXHAUSTION;Наш показатель военной усталости не может превышать §G$MAX$§!. Сейчас он на уровне §Y$VAL$§!.;x
+great_war_penalty_cb;Капитулирование!;x
+great_war_penalty_cb_desc;Принуждение державы §Ycountry§! к разоружению и выплаты ими репараций.;x
+great_war_penalty_cb_setup;Разоружение $RECIPIENT$ и выплата ими репараций.;x
+great_war_penalty_cb_short;'The Great War' окончена;x
+GREAT_WAR_OBLIGATORY_CB_DESC;Необходим обязательный повод к войне 'The Great War' против всех врагов;x
+GREAT_WAR_CB_JUSTIFY_COST_DESC;Стоимость оправдания бесчестия вычитается в §G$PERC$%§ от первоначальной стоимости в связи с установкой статуса 'The Great War';x
+GREAT_WAR_CB_CONSTRUCTION_SPEED_DESC;'The Great War' с §Y$TARGET$§!;x
+fascist_focus_short;Поддержка §Yфашистов§! ;x
+reactionary_focus_short;Поддержка §Yреакционеров§! ;x
+conservative_focus_short;Поддержка §Yконсерваторов§! ;x
+socialist_focus_short;Поддержка §Yсоциалистов§! ;x
+communist_focus_short;Поддержка §Yкоммунистов§! ;x
+liberal_focus_short;Поддержка §Yлибералов§! ;x
+anarcho_liberal_focus_short;Поддержка §Yанархо-либералов§! ;x
+automation_focus_short;Поддержка §Yавтомобильной промышленности§! ;x
+electrical_focus_short;Поддержка §Yэлектротехнической промышленности§! ;x
+chemical_focus_short;Поддержка §Yхимической промышленности§! ;x
+shipping_focus_short;Поддержка §Yкораблестроения§! ;x
+textile_focus_short;Поддержка §Yтекстильной промышленности§! ;x
+wood_focus_short;Поддержка §Yдеревообрабатывающей промышленности§! ;x
+basic_industry_focus_short;Поддержка §Yтяжелой промышленности§! ;x
+armaments_focus_short;Поддержка §Yвоенной промышленности§! ;x
+consumer_focus_short;Поддержка §Yлегкой промышленности§! ;x
+WAR_GOAL_SUCCESS_PRESTIGE_CHANGE;Если мы выполним поставленную военную цель, мы получим $PRES$ очков престижа.;x
+WAR_GOAL_FAILURE_PRESTIGE_CHANGE;Если мы не выполним поставленную военную цель, мы потеряем $PRES$ очков престижа.;x
+POP_INTERNAL_MIGRATION;§Y$NUM$§! человек намереваются переехать в другие национальные области.;x
+POP_EXTERNAL_MIGRATION;§Y$NUM$§! человек намереваются переехать в другую страну.;x
+POP_COLONIAL_MIGRATION;§Y$NUM$§! человек намереваются переехать в колонии.;x
+INVESTED_IN_US_SETUP;Когда страна вкладывает капитал в нас;x
+INVESTED_IN_US_HEADER;Иностранные ивестиции;x
+INVESTED_IN_US_1;$ICOUNTRY$ вложила ивестиции в нашу страну!;x
+INVESTED_IN_US_2;$INVESTED_IN_US_MESSAGE$;x
+INVESTED_IN_US_3;*;x
+INVESTED_IN_US_4;*;x
+INVESTED_IN_US_5;*;x
+INVESTED_IN_US_6;*;x
+INVESTED_IN_US_BTN1;OK;x
+INVESTED_IN_US_BTN2;OK;x
+INVESTED_IN_US_BTN3;Перейти к;x
+INVESTED_IN_US_LOG;§Y$ICOUNTRY$§! вложили ивестиции в нашу страну: $INVESTED_IN_US_MESSAGE$;x
+INVESTED_IN_US_BUILD;$INAME$ построили в $ILOCATION$ для $IAMOUNT$;x
+INVESTED_IN_US_OPEN;$INAME$ открыли в $ILOCATION$ для $IAMOUNT$;x
+INVESTED_IN_US_UPGRADE;Модернизировали $INAME$ в $ILOCATION$ для $IAMOUNT$;x
+INVESTED_IN_US_UNKNOWN;Ивестировали $IAMOUNT$ в нашу страну.;x
+MODIFY_RELATION_EFFECT;§Y$SOURCE$§! отношения с §Y$TARGET$§! изменились на $VALUE$.;x
+PRODUCTION_EXPAND_FACTORY_SHORTCUT_TOOLTIP;§GCtrl+Click§! модернизация всех фабрик этого типа (§Y$NUMSPECIALFACTORIES$§!).\n;x
+EVTNAME19355;'The Great War';x
+EVTDESC19355;Рост национальной гордости странами во всем мире достиг точки, когда люди не принимают что-то меньшее чем полную победу при сталкновении Великих держав в военных конфликтах. С этого времени любой конфликт по крайней мере с двумя великими державами на каждой стороне будет расценен как Первая мировая война или 'The Great War';x
+EVTOPTA19355;Бог поможет нам всем;x
+AGRESSION_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ Война за независимость;x
+BYE;Белоруссия;x
+BYE_ADJ;Белорусск.;x
+UBD;Балтия;x
+UBD_ADJ;Балтийск.;x
+UBD_conservative;Консервативная партия;x
+UBD_liberal;Либеральная партия;x
+UBD_reactionary;Партия реакционеров;x
+UBD_anarcho_liberals;Либертарианская партия;x
+UBD_socialist;Социалистическая партия;x
+UBD_communist;Партия большевиков;x
+UBD_fascist;Национал-социалистическая партия;x
+BYE_conservative;Консервативная партия;x
+BYE_liberal;Либеральная партия;x
+BYE_reactionary;Партия реакционеров;x
+BYE_anarcho_liberals;Либертарианская партия;x
+BYE_socialist;Партия социалистического объединения;x
+BYE_communist;Партия большевиков;x
+BYE_fascist;Национал-социалистическая партия;x
+PLC;Речь Посполитая;x
+PLC_ADJ;Польск.;x
+PLC_conservative;Народно-демократическая партия;x;
+PLC_liberal;Патриотическая партия;x;
+PLC_reactionary;Партия тарговицкой конфедерации;x;
+PLC_anarcho_liberal;Радикальная партия;x;
+PLC_socialist;Социалистическая партия;x;
+PLC_communist;Социал-демократическая партия;;x
+PLC_fascist;Партия национального объединения;x;
+ARA;Арабия;x;
+ARA_ADJ;Арабск.;x;
+ARA_conservative;Консерваторы;x;
+ARA_liberal;Лабералы;x;
+ARA_reactionary;Реакционеры;x;
+ARA_anarcho_liberals;Анархо-либералы;x;
+ARA_socialist;Социалисты;x;
+ARA_communist;Коммунисты;x;
+ARA_fascist;Национал-социалисты;x;
+TPG;Тайпинское государство;x
+TPG_ADJ;Тайпинск.;x
+TPG_conservative;Консерваторы;x
+TPG_liberal;Лабералы;x
+TPG_reactionary;Реакционеры;x
+TPG_anarcho_liberals;Либертарианцы;x
+TPG_socialist;Социалисты;x
+TPG_communist;Коммунисты;x
+TPG_fascist;Национал-социалисты;x
+GCO;Великая Колумбия;x
+GCO_ADJ;Велико-колумбийск.;x
+form_gran_colombia_title;Да здравствует Великая Колумбия!;x
+form_gran_colombia_desc;Симон Боливар, освободивший испанские колонии Южной Америки, и другие революционеры Первой Венесуэльской республики обычно использовали слово Колумбия для названия всей испанской части Америки, до того как в 1819 году на Конгрессе в Ангостуре оно стало названием новой страны. Первоначально на Конгрессе предлагалась структура федеративной республики, состоящей из трёх департаментов со столицами в городах Богота (Департамент Кундинамарка), Каракас (Департамент Венесуэла), и Кито (Департамент Кито). В 1819 году ещё не все бывшие вицекоролевства были освобождены от колониальной зависимости. Текст конституции новой республики был предложен на конгрессе в Кукута, по ней столица переносилась в Боготу. В конституции предусматривался высокий уровень централизации управления страной, что было необходимо с точки зрения координации военных усилий для обороны молодой страны, поэтому текст конституции был поддержан даже рядом убеждённых федералистов. Новое административное разделение (Венесуэла, Кундинамарка и Кито делились на меньшие административные единицы) было утверждено. Боливар был выбран президентом страны, вице-президентом стал Франциско де Паула Сантандер. В первые годы существования Великая Колумбия помогала другим территориям, ещё находившимся под контролем Испании, бороться за независимость — Панама вошла в состав федерации в 1821, как и ряд провинций Кито и Венесуэлы. Перу обрела независимость в 1824 с помощью Великой Колумбии. В 1826 Боливар и Сантандер были переизбраны на второй срок. Федерация окончательно развалилась к концу 1830 и в 1831 Венесуэла, Эквадор и Республика Новая Гранада официально провозгласили свою независимость;x
+GCO_conservative;Централистская партия;x
+GCO_conservative_2;Новая централистская партия;x
+GCO_liberal;Федералистская партия;x
+GCO_liberal_2;Новая федералистская партия;x
+GCO_liberal_3;Партия сторонников автономии;x
+GCO_anarcho_liberal;Радикальная партия;x
+GCO_reactionary;Традиционалистическая партия;x
+GCO_socialist;Социал-революционная партия;x
+GCO_communist;Коммунистическая партия;x
+GCO_fascist;Фашистская партия;x
+arab;Арабский;x
+form_arabia_title;Аравийский союз провозгласил независимость!;x
+form_arabia_desc;Братья, свобода пришла, мы выиграли сражение за нашу судьбу!. Теперь арабский народ находится на пути к становлению великим государством!;x
+IS_EMPTY;не имеет владельца;x
+IS_NOT_EMPTY;имеет владельца;x
+EVTNAME111011928;Арабский союз провозгласил независимость!;x
+EVTDESC111011928;Через тернии войны и дипломатии был провозглашен арабский союз. Будем ли мы присоединяться к нему?;x
+EVTOPTA111011928;Конечно!;x
+EVTOPTB111011928;Никогда!;x

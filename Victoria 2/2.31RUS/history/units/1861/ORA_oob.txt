@@ -1,0 +1,59 @@
+army = {
+	name = "Ополчение Оранжевой Республики"
+	location = 2103
+	regiment = {
+		name= "1-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "2-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "3-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "4-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "5-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "6-й отр. ополчения буров"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "7-й отр. ополчения буров"
+		type = infantry
+		home = 2102
+	}
+
+	regiment = {
+		name= "8-й отр. ополчения буров"
+		type = infantry
+		home = 2102
+	}
+
+	regiment = {
+		name= "9-й отр. ополчения буров"
+		type = infantry
+		home = 2102
+	}
+
+}
+

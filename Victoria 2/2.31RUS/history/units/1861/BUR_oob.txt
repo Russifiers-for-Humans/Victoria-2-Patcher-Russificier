@@ -1,0 +1,131 @@
+army = {
+	name = "јрми€  онбаунов"
+	location = 1336
+	regiment = {
+		name= "1-ый отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "2-ой отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "3-ий отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "4-ый отр€д"
+		type = irregular
+		home = 1340
+	}
+
+	regiment = {
+		name= "5-ый отр€д"
+		type = irregular
+		home = 1340
+	}
+
+	regiment = {
+		name= "6-ой отр€д"
+		type = irregular
+		home = 1340
+	}
+
+	regiment = {
+		name= "7-ой отр€д"
+		type = irregular
+		home = 1339
+	}
+
+	regiment = {
+		name= "8-ой отр€д"
+		type = irregular
+		home = 1339
+	}
+
+	regiment = {
+		name= "9-ый отр€д"
+		type = irregular
+		home = 1339
+	}
+
+	regiment = {
+		name= "10-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+	regiment = {
+		name= "11-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+	regiment = {
+		name= "12-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+	regiment = {
+		name= "13-ый отр€д"
+		type = irregular
+		home = 1342
+	}
+
+	regiment = {
+		name= "14-ый отр€д"
+		type = irregular
+		home = 1342
+	}
+
+	regiment = {
+		name= "15-ый отр€д"
+		type = irregular
+		home = 1342
+	}
+
+	regiment = {
+		name= "16-отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "17-ый отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "18-ый отр€д"
+		type = irregular
+		home = 1338
+	}
+
+	regiment = {
+		name= "19-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+	regiment = {
+		name= "20-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+	regiment = {
+		name= "21-ый отр€д"
+		type = irregular
+		home = 1336
+	}
+
+}
+

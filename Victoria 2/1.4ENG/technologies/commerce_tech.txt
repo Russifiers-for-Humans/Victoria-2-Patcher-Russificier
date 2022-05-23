@@ -1,0 +1,305 @@
+#financial_institutions
+private_banks = {
+	area = financial_institutions
+	year = 1830
+	cost = 3600
+
+	activate_building = cement_factory 
+	tax_eff = 3
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 25
+			is_greater_power = yes
+		}
+	}
+}
+stock_exchange = {
+	area = financial_institutions
+	year = 1830
+	cost = 7200
+
+	tax_eff = 5
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 25
+			is_greater_power = yes
+		}
+	}
+}
+business_banks = {
+	area = financial_institutions
+	year = 1850
+	cost = 10800
+
+	tax_eff = 5
+	
+	ai_chance = {
+		factor = 2
+		modifier = {
+			factor = 25
+			is_greater_power = yes
+		}
+	}
+}
+investment_banks = {
+	area = financial_institutions
+	year = 1870
+	cost = 14400
+
+	tax_eff = 5
+}
+bank_inspection_board = {
+	area = financial_institutions
+	year = 1900
+	cost = 18000
+
+	tax_eff = 5
+}
+mutual_funds = {
+	area = financial_institutions
+	year = 1919
+	cost = 21600
+
+	tax_eff = 5
+}
+
+
+#monetary_system
+no_standard = {
+	area = monetary_system
+	year = 1830
+	cost = 3600
+
+	administrative_efficiency = 0.05
+}
+ad_hoc_money_bill_printing = {
+	area = monetary_system
+	year = 1830
+	cost = 7200
+
+	administrative_efficiency = 0.05
+}  
+private_bank_money_bill_printing = {
+	area = monetary_system
+	year = 1830
+	cost = 10800
+
+	administrative_efficiency = 0.05
+}
+central_bank_money_bill_printing = {
+	area = monetary_system
+	year = 1850
+	cost = 14400
+
+	administrative_efficiency = 0.05
+}
+modern_central_bank_system = {
+	area = monetary_system
+	year = 1870
+	cost = 18000
+
+	administrative_efficiency = 0.05
+}
+market_determined_exchange_rates = {
+	area = monetary_system
+	year = 1900
+	cost = 21600
+
+
+	administrative_efficiency = 0.05
+}
+
+
+#economic_thought_and_critique
+early_classical_theory_and_critique = {
+	area = economic_thought_and_critique
+	year = 1830
+	cost = 3600
+	
+	activate_building = lumber_mill
+	factory_input = -0.03
+}
+late_classical_theory = {
+	area = economic_thought_and_critique
+	year = 1830
+	cost = 7200
+
+	factory_input = -0.03
+}
+collectivist_theory = {
+	area = economic_thought_and_critique
+	year = 1830
+	cost = 10800
+
+	factory_input = -0.03
+}
+the_historical_theory = {
+	area = economic_thought_and_critique
+	year = 1850
+	cost = 14400
+
+	factory_input = -0.03
+}
+neoclassical_theory = {
+	area = economic_thought_and_critique
+	year = 1870
+	cost = 18000
+
+	factory_input = -0.03
+}
+keynesian_economics = {
+	area = economic_thought_and_critique
+	year = 1900
+	cost = 21600
+
+	factory_input = -0.03
+}
+
+
+#market_functionality
+freedom_of_trade = {
+	area = market_functionality
+	year = 1830
+	cost = 3600
+
+
+	activate_building = luxury_clothes_factory  
+	farm_rgo_size = -0.02
+	mine_rgo_size = -0.02
+	farm_rgo_eff = 0.5
+	mine_rgo_eff = 0.5
+	
+	ai_chance = {
+		factor = 100
+	}
+}
+market_structure = {
+	area = market_functionality
+	year = 1830
+	cost = 7200
+
+	influence = 0.2
+	
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 50
+			is_greater_power = yes
+		}
+	}	
+
+}
+business_regulations = {
+	area = market_functionality
+	year = 1830
+	cost = 10800
+
+	influence = 0.2
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 50
+			is_greater_power = yes
+		}
+	}	
+	
+}
+market_regulations = {
+	area = market_functionality
+	year = 1850
+	cost = 14400
+
+	influence = 0.2
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 50
+			is_greater_power = yes
+		}
+	}	
+	
+}
+economic_responsibility = {
+	area = market_functionality
+	year = 1870
+	cost = 18000
+
+	influence = 0.2
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 50
+			is_greater_power = yes
+		}
+	}	
+	
+}
+government_interventionism = {
+	area = market_functionality
+	year = 1900
+	cost = 21600
+
+	influence = 0.2
+	ai_chance = {
+		factor = 1
+		modifier = {
+			factor = 50
+			is_greater_power = yes
+		}
+	}	
+	
+}
+
+
+#tech_organization
+guild_based_production = {
+	area = tech_organization
+	year = 1830
+	cost = 3600
+	activate_building = canned_food_factory 
+	factory_output = 0.03
+}
+organized_factories = {
+	area = tech_organization
+	year = 1830
+	cost = 7200
+
+	factory_output = 0.03
+	ai_chance = {
+		factor = 20
+	}	
+}
+scientific_management = {
+	area = tech_organization
+	year = 1830
+	cost = 10800
+
+	factory_output = 0.03
+}
+time_saving_measures = {
+	area = tech_organization
+	year = 1850
+	cost = 14400
+
+	factory_output = 0.03
+}
+management_strategy = {
+	area = tech_organization
+	year = 1870
+	cost = 18000
+
+	factory_output = 0.03
+}
+organizational_development = {
+	area = tech_organization
+	year = 1900
+	cost = 21600
+
+	factory_output = 0.03
+}
+
+

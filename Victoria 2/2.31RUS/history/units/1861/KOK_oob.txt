@@ -1,0 +1,59 @@
+army = {
+	name = "Ханское войско"
+	location = 1208
+	regiment = {
+		name= "1-ый киргизский отряд"
+		type = irregular
+		home = 1202
+	}
+
+	regiment = {
+		name= "2-ой киргизский отряд"
+		type = irregular
+		home = 1202
+	}
+
+	regiment = {
+		name= "3-ий киргизский отряд"
+		type = irregular
+		home = 1202
+	}
+
+	regiment = {
+		name= "4-ый киргизский отряд"
+		type = irregular
+		home = 1203
+	}
+
+	regiment = {
+		name= "5-ый киргизский отряд"
+		type = irregular
+		home = 1203
+	}
+
+	regiment = {
+		name= "6-ый киргизский отряд"
+		type = irregular
+		home = 1203
+	}
+
+	regiment = {
+		name= "7-ый киргизский отряд"
+		type = irregular
+		home = 1208
+	}
+
+	regiment = {
+		name= "8-ый киргизский отряд"
+		type = irregular
+		home = 1208
+	}
+
+	regiment = {
+		name= "9-ый киргизский отряд"
+		type = irregular
+		home = 1208
+	}
+
+}
+

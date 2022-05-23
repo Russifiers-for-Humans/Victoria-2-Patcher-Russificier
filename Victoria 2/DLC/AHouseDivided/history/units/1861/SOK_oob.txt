@@ -1,0 +1,203 @@
+army = {
+	name = "Hausa Army"
+	location = 1948
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1948
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1947
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1945
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1939
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1930
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1929
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1940
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1944
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1946
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1941
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1941
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1941
+	}
+
+}
+

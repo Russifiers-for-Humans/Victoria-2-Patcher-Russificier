@@ -1,0 +1,29 @@
+army = {
+	name = "I  орпус"
+	location = 558
+	regiment = {
+		name= "1-€ саксонска€ дивизи€"
+		type = infantry
+		home = 558
+	}
+
+	regiment = {
+		name= "2-€ саксонска€ дивизи€"
+		type = infantry
+		home = 558
+	}
+
+	regiment = {
+		name= "3-€ саксонска€ дивизи€"
+		type = infantry
+		home = 558
+	}
+
+	regiment = {
+		name= "4-€ саксонска€ дивизи€"
+		type = cuirassier
+		home = 558
+	}
+
+}
+

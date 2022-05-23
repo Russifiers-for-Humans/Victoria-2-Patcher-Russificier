@@ -1,0 +1,3117 @@
+army = {
+	name = "Войска зеленого знамени"
+	location = 1563
+	regiment = {
+		name= "1-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "2-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "3-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "4-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "5-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "6-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "7-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "8-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "9-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "10-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "11-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "12-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "13-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "14-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "15-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "16-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "17-й цайпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "18-й цаньпин"
+		type = irregular
+		home = 1563
+	}
+
+	regiment = {
+		name= "19-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "20-й цаньпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "21-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "22-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "23-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "24-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "25-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "26-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "27-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "28-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "29-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "30-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "31-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "32-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "33-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "34-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "35-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "36-й цайпин"
+		type = irregular
+		home = 1570
+	}
+
+}
+
+army = {
+	name = "Желтое знамя"
+	location = 1568
+	regiment = {
+		name= "1-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "2-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "3-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "4-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "5-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "6-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "7-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "8-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "9-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "10-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "11-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "12-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "13-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "14-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "15-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "16-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "17-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "18-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "19-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "20-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "21-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "22-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "23-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "24-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "25-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "26-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "27-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "28-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "29-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "30-я гуза желтого знамени"
+		type = irregular
+		home = 1568
+	}
+
+	regiment = {
+		name= "31-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "32-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "33-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "34-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "35-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+	regiment = {
+		name= "36-я гуза желтого знамени"
+		type = irregular
+		home = 1571
+	}
+
+}
+
+army = {
+	name = "Желтое окаймленное знамя"
+	location = 1570
+	regiment = {
+		name= "37-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "38-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "39-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "40-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "40-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "41-я гуза желтого знамени"
+		type = irregular
+		home = 1570
+	}
+
+	regiment = {
+		name= "42-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "43-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "44-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "45-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "46-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "47-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "48-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "49-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "50-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "51-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "52-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "53-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "54-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "55-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "56-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "57-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "58-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "59-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "60-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "61-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "62-я гуза желтого знамени"
+		type = irregular
+		home = 1567
+	}
+
+	regiment = {
+		name= "63-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "64-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "65-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "66-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "67-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "68-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "69-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "70-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+	regiment = {
+		name= "71-я гуза желтого знамени"
+		type = irregular
+		home = 1565
+	}
+
+}
+
+army = {
+	name = "Белое знамя"
+	location = 1543
+	regiment = {
+		name= "1-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "2-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "3-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "4-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "5-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "6-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "7-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "8-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "9-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "10-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "11-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "12-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "13-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "14-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "15-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "16-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "17-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "18-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "19-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "20-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "21-я гуза белого знамени"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "22-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "23-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "24-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "25-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "26-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "27-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "28-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "29-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "30-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "31-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "32-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "33-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "34-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "35-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+	regiment = {
+		name= "36-я гуза белого знамени"
+		type = irregular
+		home = 1541
+	}
+
+}
+
+army = {
+	name = "Белое окаймленное знамя"
+	location = 1514
+	regiment = {
+		name= "37-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "38-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "39-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "40-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "41-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "42-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "43-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "44-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "45-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "46-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "47-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "48-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "49-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "50-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "51-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "52-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "53-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "54-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "55-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "56-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "57-я гуза белого знамени"
+		type = irregular
+		home = 1514
+	}
+
+	regiment = {
+		name= "58-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "59-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "60-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "61-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "62-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "63-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "64-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "65-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "66-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "67-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "68-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "69-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "70-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "71-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+	regiment = {
+		name= "72-я гуза белого знамени"
+		type = irregular
+		home = 1513
+	}
+
+}
+
+army = {
+	name = "Красное знамя"
+	location = 1515
+	regiment = {
+		name= "1-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "2-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "3-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "4-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "5-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "6-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "7-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "8-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "9-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "10-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "11-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "12-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "13-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "14-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "15-я гуза красного знамени"
+		type = irregular
+		home = 1515
+	}
+
+	regiment = {
+		name= "16-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "17-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "18-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "19-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "20-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "21-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "22-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "23-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "24-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "25-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "26-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "27-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "28-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "29-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "30-я гуза красного знамени"
+		type = irregular
+		home = 1614
+	}
+
+	regiment = {
+		name= "31-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "32-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "33-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "34-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "35-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+	regiment = {
+		name= "36-я гуза красного знамени"
+		type = irregular
+		home = 1575
+	}
+
+}
+
+army = {
+	name = "Красное окаймленное Знамя"
+	location = 1514
+	regiment = {
+		name= "37-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "38-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "39-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "40-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "41-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "42-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "43-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "44-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "45-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "46-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "47-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "48-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "49-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "50-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "51-я гуза красного знамени"
+		type = irregular
+		home = 1576
+	}
+
+	regiment = {
+		name= "52-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "53-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "54-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "55-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "56-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "57-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "58-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "59-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "60-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "61-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "62-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "63-я гуза красного знамени"
+		type = irregular
+		home = 1573
+	}
+
+	regiment = {
+		name= "64-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "65-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "66-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "67-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "68-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "69-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "70-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "71-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+	regiment = {
+		name= "72-я гуза красного знамени"
+		type = irregular
+		home = 1617
+	}
+
+}
+
+army = {
+	name = "Синее Знамя"
+	location = 1513
+	regiment = {
+		name= "1-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "2-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "3-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "4-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "5-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "6-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "7-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "8-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "9-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "10-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "11-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "12-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "13-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "14-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "15-я гуза синего знамени"
+		type = irregular
+		home = 1613
+	}
+
+	regiment = {
+		name= "16-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "17-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "18-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "19-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "20-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "21-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "22-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "23-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "24-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "25-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "26-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "27-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "28-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "29-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "30-я гуза синего знамени"
+		type = irregular
+		home = 1615
+	}
+
+	regiment = {
+		name= "31-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "32-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "33-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "34-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "35-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "36-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "37-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "38-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "39-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "40-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "41-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+	regiment = {
+		name= "42-я гуза синего знамени"
+		type = irregular
+		home = 1616
+	}
+
+}
+
+army = {
+	name = "Синее окаймленное Знамя"
+	location = 1549
+	regiment = {
+		name= "43-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "44-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "45-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "46-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "47-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "48-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "49-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "50-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "51-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "52-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "53-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "54-я гуза синего знамени"
+		type = irregular
+		home = 1549
+	}
+
+	regiment = {
+		name= "55-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "56-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "57-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "58-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "59-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "60-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "61-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "62-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "63-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "64-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "65-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "66-я гуза синего знамени"
+		type = irregular
+		home = 1551
+	}
+
+	regiment = {
+		name= "67-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "68-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "69-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "70-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "71-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "72-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "73-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "74-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "75-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "76-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "77-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "78-я гуза синего знамени"
+		type = irregular
+		home = 1548
+	}
+
+	regiment = {
+		name= "79-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "80-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "81-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "82-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "83-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "84-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "85-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "86-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+	regiment = {
+		name= "87-я гуза синего знамени"
+		type = irregular
+		home = 1550
+	}
+
+}
+
+army = {
+	name = "Армия Синьцзяна"
+	location = 1483
+	regiment = {
+		name= "1 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "2 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "3 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "4 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "5 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "6 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "7 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "8 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "9 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "10 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "11 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "12 чапэ"
+		type = irregular
+		home = 1483
+	}
+
+	regiment = {
+		name= "13 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "14 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "15 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "16 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "17 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "18 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "19 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "20 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "21 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "22 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "23 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "24 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "25 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "26 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "27 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "28 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "29 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "30 чапэ"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "31 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "32 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "33 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "34 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "35 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "36 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "37 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "38 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "39 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "40 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "41 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "42 чапэ"
+		type = irregular
+		home = 1484
+	}
+
+	regiment = {
+		name= "43 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "44 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "45 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "46 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "47 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "48 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "49 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "50 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "51 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "52 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "53 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+	regiment = {
+		name= "54 чапэ"
+		type = irregular
+		home = 1486
+	}
+
+}
+
+army = {
+	name = "Южная Армия"
+	location = 1526
+	regiment = {
+		name= "1.1 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "2.1 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "3.1 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "1.2 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "2.2 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "3.2 чапэ"
+		type = irregular
+		home = 1526
+	}
+
+	regiment = {
+		name= "1.3 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "2.3 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "3.3 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "1.4 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "2.4 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "3.4 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "1.5 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "2.5 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+	regiment = {
+		name= "3.5 чапэ"
+		type = irregular
+		home = 1528
+	}
+
+}
+
+army = {
+	name = "Монгольская армия"
+	location = 1618
+	regiment = {
+		name= "1.1 цаньпин"
+		type = irregular
+		home = 1598
+	}
+
+	regiment = {
+		name= "2.1 цаньпин"
+		type = irregular
+		home = 1598
+	}
+
+	regiment = {
+		name= "3.1 цаньпин"
+		type = irregular
+		home = 1598
+	}
+
+	regiment = {
+		name= "1.2 цаньпин"
+		type = irregular
+		home = 1599
+	}
+
+	regiment = {
+		name= "2.2 цаньпин"
+		type = irregular
+		home = 1599
+	}
+
+	regiment = {
+		name= "3.2 цаньпин"
+		type = irregular
+		home = 1599
+	}
+
+	regiment = {
+		name= "1.3 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "2.3 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "3.3 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "1.4 цаньпин"
+		type = irregular
+		home = 1531
+	}
+
+	regiment = {
+		name= "2.4 цаньпин"
+		type = irregular
+		home = 1531
+	}
+
+	regiment = {
+		name= "3.4 цаньпин"
+		type = irregular
+		home = 1531
+	}
+
+	regiment = {
+		name= "1.5 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "2.5 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "3.5 цаньпин"
+		type = irregular
+		home = 0
+	}
+
+	regiment = {
+		name= "1.6 цаньпин"
+		type = irregular
+		home = 1534
+	}
+
+	regiment = {
+		name= "2.6 цаньпин"
+		type = irregular
+		home = 1534
+	}
+
+	regiment = {
+		name= "3.6 цаньпин"
+		type = irregular
+		home = 1534
+	}
+
+	regiment = {
+		name= "1.7 цаньпин"
+		type = irregular
+		home = 1533
+	}
+
+	regiment = {
+		name= "2.7 цаньпин"
+		type = irregular
+		home = 1533
+	}
+
+	regiment = {
+		name= "3.7 цаньпин"
+		type = irregular
+		home = 1533
+	}
+
+}
+
+army = {
+	name = "Армия Cян"
+	location = 1486
+	regiment = {
+		name= "1.1 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "2.1 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "3.1 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "1.2 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "2.2 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "3.2 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "1.3 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "2.3 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "3.3 цаньпин"
+		type = irregular
+		home = 1494
+	}
+
+	regiment = {
+		name= "1.4 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "2.4 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "3.4 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "1.5 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "2.5 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "3.5 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "1.6 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "2.6 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "3.6 цаньпин"
+		type = irregular
+		home = 1500
+	}
+
+	regiment = {
+		name= "1.7 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "2.7 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "3.7 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "1.8 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "2.8 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "3.8 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "1.9 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "2.9 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "3.9 цаньпин"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "1.10 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "2.10 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "3.10 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "1.11 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "2.11 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "3.11 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "1.12 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "2.12 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "3.12 цаньпин"
+		type = irregular
+		home = 1501
+	}
+
+	regiment = {
+		name= "1.13 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "2.13 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "3.13 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "1.14 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "2.14 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "3.14 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "1.15 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "2.15 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "3.15 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "1.16 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "2.16 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "3.16 цаньпин"
+		type = irregular
+		home = 1495
+	}
+
+	regiment = {
+		name= "1.20 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "2.20 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "3.20 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "1.21 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "2.21 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+	regiment = {
+		name= "3.21 цаньпин"
+		type = irregular
+		home = 1499
+	}
+
+}
+
+army = {
+	name = "Армия Чу"
+	location = 1524
+	regiment = {
+		name= "1-й отряд"
+		type = irregular
+		home = 1579
+	}
+
+	regiment = {
+		name= "2-й отряд"
+		type = irregular
+		home = 1579
+	}
+
+	regiment = {
+		name= "3-й отряд"
+		type = irregular
+		home = 1579
+	}
+
+	regiment = {
+		name= "4-й отряд"
+		type = irregular
+		home = 1581
+	}
+
+	regiment = {
+		name= "5-й отряд"
+		type = irregular
+		home = 1581
+	}
+
+	regiment = {
+		name= "6-й отряд"
+		type = irregular
+		home = 1581
+	}
+
+	regiment = {
+		name= "7-й отряд"
+		type = irregular
+		home = 1584
+	}
+
+	regiment = {
+		name= "8-й отряд"
+		type = irregular
+		home = 1584
+	}
+
+	regiment = {
+		name= "9-й отряд"
+		type = irregular
+		home = 1584
+	}
+
+}
+
+army = {
+	name = "Армия Гуаньси"
+	location = 1541
+	regiment = {
+		name= "1.1 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+	regiment = {
+		name= "2.1 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+	regiment = {
+		name= "3.1 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+	regiment = {
+		name= "1.2 чапэ"
+		type = irregular
+		home = 1491
+	}
+
+	regiment = {
+		name= "2.2 чапэ"
+		type = irregular
+		home = 1491
+	}
+
+	regiment = {
+		name= "3.2 чапэ"
+		type = irregular
+		home = 1491
+	}
+
+	regiment = {
+		name= "1.3 чапэ"
+		type = irregular
+		home = 1489
+	}
+
+	regiment = {
+		name= "2.3 чапэ"
+		type = irregular
+		home = 1489
+	}
+
+	regiment = {
+		name= "3.3 чапэ"
+		type = irregular
+		home = 1489
+	}
+
+	regiment = {
+		name= "1.4 чапэ"
+		type = irregular
+		home = 1490
+	}
+
+	regiment = {
+		name= "2.4 чапэ"
+		type = irregular
+		home = 1490
+	}
+
+	regiment = {
+		name= "3.4 чапэ"
+		type = irregular
+		home = 1490
+	}
+
+	regiment = {
+		name= "1.5 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+	regiment = {
+		name= "2.5 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+	regiment = {
+		name= "3.5 чапэ"
+		type = irregular
+		home = 1492
+	}
+
+}
+

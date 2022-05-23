@@ -1,0 +1,113 @@
+army = {
+	name = "Королевская армия"
+	location = 1120
+	regiment = {
+		name= "1-й королевский отряд"
+		type = irregular
+		home = 1120
+	}
+
+	regiment = {
+		name= "2-й королевский отряд"
+		type = irregular
+		home = 1120
+	}
+
+	regiment = {
+		name= "3-й королевский отряд"
+		type = irregular
+		home = 1120
+	}
+
+	regiment = {
+		name= "4-й королевский отряд"
+		type = irregular
+		home = 1123
+	}
+
+	regiment = {
+		name= "5-й королевский отряд"
+		type = irregular
+		home = 1123
+	}
+
+	regiment = {
+		name= "6-й королевский отряд"
+		type = irregular
+		home = 1123
+	}
+
+	regiment = {
+		name= "7-й королевский отряд"
+		type = irregular
+		home = 1122
+	}
+
+	regiment = {
+		name= "8-й королевский отряд"
+		type = irregular
+		home = 1122
+	}
+
+	regiment = {
+		name= "9-й королевский отряд"
+		type = irregular
+		home = 1122
+	}
+
+	regiment = {
+		name= "10-й королевский отряд"
+		type = irregular
+		home = 1128
+	}
+
+	regiment = {
+		name= "11-й королевский отряд"
+		type = irregular
+		home = 1128
+	}
+
+	regiment = {
+		name= "12-й королевский отряд"
+		type = irregular
+		home = 1128
+	}
+
+	regiment = {
+		name= "13-й королевский отряд"
+		type = irregular
+		home = 1126
+	}
+
+	regiment = {
+		name= "14-й королевский отряд"
+		type = irregular
+		home = 1126
+	}
+
+	regiment = {
+		name= "15-й королевский отряд"
+		type = irregular
+		home = 1126
+	}
+
+	regiment = {
+		name= "16-й королевский отряд"
+		type = irregular
+		home = 1116
+	}
+
+	regiment = {
+		name= "17-й королевский отряд"
+		type = irregular
+		home = 1116
+	}
+
+	regiment = {
+		name= "18-й королевский отряд"
+		type = irregular
+		home = 1116
+	}
+
+}
+

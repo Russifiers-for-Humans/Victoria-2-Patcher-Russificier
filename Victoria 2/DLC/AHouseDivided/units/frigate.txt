@@ -1,0 +1,35 @@
+frigate = {
+	icon = 5
+	
+	type = naval
+	sprite = Frigate
+	unit_type = light_ship
+	floating_flag = yes
+	
+	#Core Abilities
+	priority = 13
+	max_strength = 100
+	default_organisation = 30
+	maximum_speed = 8
+	weighted_value = 2.0
+
+
+	#Building Costs
+	build_time = 180
+	build_cost = {
+		clipper_convoy = 10
+		artillery = 5
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		clipper_convoy = 0.16
+		artillery = 0.04 #0.08
+	}
+	
+
+	#Naval Abilties
+	hull = 2
+	gun_power = 4
+}
+

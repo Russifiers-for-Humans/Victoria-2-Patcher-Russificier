@@ -1,0 +1,767 @@
+#SOIs
+
+ANH = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BRA = {
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+BRE = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+COB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+FRM = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+	military_access = yes
+}
+
+HAM = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HAN = {
+
+	value = 125
+
+	level = 3
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HEK = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+HES = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+KRA = {
+
+	value = 125
+	level = 4
+	influence_value = 25
+
+}
+LIP = {
+
+	value = 125
+	level = 5
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+LUB = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+LUX = {
+
+	value = 125
+
+	level = 3
+
+	influence_value = 25
+
+}
+
+MEC = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+MEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+NAS = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+OLD = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+SAX = {
+
+	value = 50
+
+	level = 3
+
+	influence_value = 25
+
+	military_access = yes
+}
+
+WEI = {
+
+	value = 125
+
+	level = 5
+
+	influence_value = 25
+
+	military_access = yes
+
+}
+
+
+BAV = {
+
+	value = 75
+	level = 3
+	influence_value = 25
+
+	military_access = yes
+}
+
+
+BAD = {
+
+	value = 100
+
+	level = 3
+
+	influence_value = 20
+
+	military_access = yes
+
+}
+
+
+WUR = {
+	value = 100
+	level = 3
+	influence_value = 20
+	military_access = yes
+}
+
+AUS = {
+	value = 50
+}
+FRA = {
+	value = 10
+}
+RUS = {
+	value = 80
+}
+DEN = {
+	value = -50
+}
+
+army = {
+	name = "I Гвардейский Корпус"
+	location = 549
+	regiment = {
+		name= "1-я гв. пех. дивизия"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "2-я гв. пех. дивизия"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "3-я гв. пех. дивизия"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "4-я гв. пех. дивизия"
+		type = guard
+		home = 549
+	}
+
+	regiment = {
+		name= "5-я гв. пех. дивизия"
+		type = infantry
+		home = 550
+	}
+
+	regiment = {
+		name= "6-я гв. пех. дивизия"
+		type = infantry
+		home = 554
+	}
+
+	regiment = {
+		name= "7-я гв. пех. дивизия"
+		type = infantry
+		home = 594
+	}
+
+	regiment = {
+		name= "8-я гв. пех. дивизия"
+		type = guard
+		home = 549
+	}
+
+}
+
+army = {
+	name = "II Koрпус"
+	location = 553
+	regiment = {
+		name= "1-я дивизия линейной пехоты"
+		type = infantry
+		home = 557
+	}
+
+	regiment = {
+		name= "2-я дивизия линейной пехоты"
+		type = infantry
+		home = 553
+	}
+
+	regiment = {
+		name= "3-я дивизия линейной пехоты"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "4-я дивизия линейной пехоты"
+		type = engineer
+		home = 582
+	}
+
+	regiment = {
+		name= "5-я дивизия линейной пехоты"
+		type = infantry
+		home = 556
+	}
+
+	regiment = {
+		name= "6-я дивизия линейной пехоты"
+		type = infantry
+		home = 549
+	}
+
+	regiment = {
+		name= "7-я дивизия линейной пехоты"
+		type = infantry
+		home = 584
+	}
+
+	regiment = {
+		name= "1-й артиллерийский дивизион"
+		type = artillery
+		home = 582
+	}
+
+}
+
+army = {
+	name = "III Корпус"
+	location = 551
+	regiment = {
+		name= "8-я дивизия линейной пехоты"
+		type = infantry
+		home = 551
+	}
+
+	regiment = {
+		name= "9-я дивизия линейной пехоты"
+		type = infantry
+		home = 551
+	}
+
+	regiment = {
+		name= "10-я дивизия линейной пехоты"
+		type = infantry
+		home = 551
+	}
+
+	regiment = {
+		name= "11-я дивизия линейной пехоты"
+		type = engineer
+		home = 551
+	}
+
+	regiment = {
+		name= "12-я дивизия линейной пехоты"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "12-я дивизия линейной пехоты"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "13-я дивизия линейной пехоты"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "2-й артиллерийский дивизион"
+		type = artillery
+		home = 549
+	}
+
+}
+
+army = {
+	name = "IV Корпус"
+	location = 695
+	regiment = {
+		name= "14-я дивизия линейной пехоты"
+		type = infantry
+		home = 696
+	}
+
+	regiment = {
+		name= "15-я дивизия линейной пехоты"
+		type = infantry
+		home = 696
+	}
+
+	regiment = {
+		name= "16-я дивизия линейной пехоты"
+		type = infantry
+		home = 701
+	}
+
+	regiment = {
+		name= "17-я дивизия линейной пехоты"
+		type = engineer
+		home = 693
+	}
+
+	regiment = {
+		name= "18-я дивизия линейной пехоты"
+		type = infantry
+		home = 695
+	}
+
+	regiment = {
+		name= "19-я дивизия линейной пехоты"
+		type = infantry
+		home = 695
+	}
+
+	regiment = {
+		name= "20-я дивизия линейной пехоты"
+		type = infantry
+		home = 695
+	}
+
+	regiment = {
+		name= "3-й артиллерийский дивизион"
+		type = artillery
+		home = 698
+	}
+
+}
+
+army = {
+	name = "V Корпус"
+	location = 548
+	regiment = {
+		name= "21-я дивизия линейной пехоты"
+		type = infantry
+		home = 699
+	}
+
+	regiment = {
+		name= "22-я дивизия линейной пехоты"
+		type = infantry
+		home = 577
+	}
+
+	regiment = {
+		name= "23-я дивизия линейной пехоты"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "24-я дивизия линейной пехоты"
+		type = engineer
+		home = 687
+	}
+
+	regiment = {
+		name= "25-я дивизия линейной пехоты"
+		type = infantry
+		home = 683
+	}
+
+	regiment = {
+		name= "26-я дивизия линейной пехоты"
+		type = infantry
+		home = 684
+	}
+
+	regiment = {
+		name= "27-я дивизия линейной пехоты"
+		type = infantry
+		home = 684
+	}
+
+	regiment = {
+		name= "4-й артиллерийский дивизион"
+		type = artillery
+		home = 581
+	}
+
+}
+
+army = {
+	name = "VI Корпус"
+	location = 580
+	regiment = {
+		name= "28-я дивизия линейной пехоты"
+		type = infantry
+		home = 679
+	}
+
+	regiment = {
+		name= "29-я дивизия линейной пехоты"
+		type = infantry
+		home = 580
+	}
+
+	regiment = {
+		name= "30-я дивизия линейной пехоты"
+		type = infantry
+		home = 680
+	}
+
+	regiment = {
+		name= "5-й артиллерийский дивизион"
+		type = artillery
+		home = 529
+	}
+
+}
+
+army = {
+	name = "VII Корпус"
+	location = 575
+	regiment = {
+		name= "31-я дивизия линейной пехоты"
+		type = infantry
+		home = 584
+	}
+
+	regiment = {
+		name= "32-я дивизия линейной пехоты"
+		type = infantry
+		home = 575
+	}
+
+	regiment = {
+		name= "33-я дивизия линейной пехоты"
+		type = infantry
+		home = 575
+	}
+
+	regiment = {
+		name= "6-й артиллерийский дивизион"
+		type = artillery
+		home = 2561
+	}
+
+}
+
+army = {
+	name = "VIII Кавалергардский Корпус"
+	location = 549
+	regiment = {
+		name= "1-й кав. гв. дивизион"
+		type = cavalry
+		home = 684
+	}
+
+	regiment = {
+		name= "2-й кав. гв. дивизион"
+		type = cavalry
+		home = 547
+	}
+
+	regiment = {
+		name= "3-й кав. гв. дивизион"
+		type = cavalry
+		home = 682
+	}
+
+	regiment = {
+		name= "1-я гв. дивизия"
+		type = guard
+		home = 692
+	}
+
+}
+
+army = {
+	name = "IX Кав. Корпус"
+	location = 552
+	regiment = {
+		name= "1-й кавалерийский дивизион"
+		type = cavalry
+		home = 552
+	}
+
+	regiment = {
+		name= "2-й кавалерийский дивизион"
+		type = cavalry
+		home = 552
+	}
+
+	regiment = {
+		name= "3-й кавалерийский дивизион"
+		type = cavalry
+		home = 552
+	}
+
+	regiment = {
+		name= "4-й кавалерийский дивизион"
+		type = cavalry
+		home = 698
+	}
+
+	regiment = {
+		name= "5-й кавалерийский дивизион"
+		type = cavalry
+		home = 682
+	}
+
+	regiment = {
+		name= "6-й кавалерийский дивизион"
+		type = cavalry
+		home = 685
+	}
+
+	regiment = {
+		name= "7-й кавалерийский дивизион"
+		type = hussar
+		home = 699
+	}
+
+}
+
+army = {
+	name = "Резервный Кав. Корпус"
+	location = 580
+	regiment = {
+		name= "1-й гв. кав.  дивизион"
+		type = cavalry
+		home = 682
+	}
+
+	regiment = {
+		name= "2-й гв. кав.  дивизион"
+		type = cavalry
+		home = 682
+	}
+
+	regiment = {
+		name= "3-й гв. кав.  дивизион"
+		type = cavalry
+		home = 700
+	}
+
+	regiment = {
+		name= "4-й гв. кав.  дивизион"
+		type = guard
+		home = 682
+	}
+
+	regiment = {
+		name= "8-й кавалерийский. дивизион"
+		type = dragoon
+		home = 369
+	}
+
+	regiment = {
+		name= "9-й кавалерийский. дивизион"
+		type = dragoon
+		home = 581
+	}
+
+	regiment = {
+		name= "10-й кавалерийский. дивизион"
+		type = dragoon
+		home = 369
+	}
+
+	regiment = {
+		name= "11-й кавалерийский. дивизион"
+		type = dragoon
+		home = 681
+	}
+
+	regiment = {
+		name= "12-й кавалерийский. дивизион"
+		type = dragoon
+		home = 578
+	}
+
+	regiment = {
+		name= "13-й кавалерийский. дивизион"
+		type = dragoon
+		home = 576
+	}
+
+	regiment = {
+		name= "14-й кавалерийский. дивизион"
+		type = hussar
+		home = 685
+	}
+
+}
+
+navy = {
+	name = "Прусский Флот"
+	location = 690
+	ship = {
+		name= "Аркона"
+		type = frigate
+	}
+
+	ship = {
+		name= "Газель"
+		type = frigate
+	}
+
+	ship = {
+		name= "Гефион"
+		type = frigate
+	}
+
+	ship = {
+		name= "Тетис"
+		type = frigate
+	}
+
+	ship = {
+		name= "Барбаросса"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Данциг"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Лорелей"
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "1-я Транспортная Эскадра"
+	location = 690
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+

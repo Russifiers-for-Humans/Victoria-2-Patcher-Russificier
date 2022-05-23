@@ -1,0 +1,59 @@
+army = {
+	name = "Королевская армия"
+	location = 1157
+	regiment = {
+		name= "1-й королевский отряд"
+		type = irregular
+		home = 1156
+	}
+
+	regiment = {
+		name= "2-й королевский отряд"
+		type = irregular
+		home = 1156
+	}
+
+	regiment = {
+		name= "3-й королевский отряд"
+		type = irregular
+		home = 1156
+	}
+
+	regiment = {
+		name= "4-й королевский отряд"
+		type = irregular
+		home = 1160
+	}
+
+	regiment = {
+		name= "5-й королевский отряд"
+		type = irregular
+		home = 1160
+	}
+
+	regiment = {
+		name= "6-й королевский отряд"
+		type = irregular
+		home = 1160
+	}
+
+	regiment = {
+		name= "7-й королевский отряд"
+		type = irregular
+		home = 1158
+	}
+
+	regiment = {
+		name= "8-й королевский отряд"
+		type = irregular
+		home = 1158
+	}
+
+	regiment = {
+		name= "9-й королевский отряд"
+		type = irregular
+		home = 1158
+	}
+
+}
+

@@ -1,0 +1,495 @@
+army = {
+	name = "1-я Армия"
+	location = 726
+	regiment = {
+		name= "1-я бригада берсальеров"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "2-я бригада берсальеров"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "3-я бригада берсальеров"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "4-я бригада берсальеров"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "5-я бригада берсальеров"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "6-я бригада берсальеров"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "7-я бригада берсальеров"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "1-я гренадерская бригада"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "2-я гренадерская бригада"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "3-я гренадерская бригада"
+		type = engineer
+		home = 739
+	}
+
+	regiment = {
+		name= "1-я дивизия"
+		type = infantry
+		home = 727
+	}
+
+	regiment = {
+		name= "2-я дивизия"
+		type = infantry
+		home = 727
+	}
+
+	regiment = {
+		name= "3-я дивизия"
+		type = infantry
+		home = 727
+	}
+
+	regiment = {
+		name= "4-я дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "5-я дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "6-я дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "7-я дивизия"
+		type = infantry
+		home = 728
+	}
+
+	regiment = {
+		name= "8-я дивизия"
+		type = infantry
+		home = 728
+	}
+
+	regiment = {
+		name= "9-я дивизия"
+		type = infantry
+		home = 728
+	}
+
+	regiment = {
+		name= "10-я дивизия"
+		type = infantry
+		home = 720
+	}
+
+	regiment = {
+		name= "11-я дивизия"
+		type = infantry
+		home = 720
+	}
+
+	regiment = {
+		name= "1-й кавалерийский дивизион"
+		type = cavalry
+		home = 720
+	}
+
+	regiment = {
+		name= "2-й кавалерийский дивизион"
+		type = cavalry
+		home = 720
+	}
+
+	regiment = {
+		name= "3-й кавалерийский дивизион"
+		type = cavalry
+		home = 720
+	}
+
+}
+
+army = {
+	name = "2-я Армия"
+	location = 738
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "3-я пехотная дивзия"
+		type = infantry
+		home = 739
+	}
+
+	regiment = {
+		name= "4-я пехотная дивизия"
+		type = infantry
+		home = 740
+	}
+
+	regiment = {
+		name= "5-я пехотная дивизия"
+		type = infantry
+		home = 740
+	}
+
+	regiment = {
+		name= "6-я пехотная дивизия"
+		type = infantry
+		home = 740
+	}
+
+	regiment = {
+		name= "7-я пехотная дивизия"
+		type = infantry
+		home = 738
+	}
+
+	regiment = {
+		name= "8-я пехотная дивизия"
+		type = infantry
+		home = 738
+	}
+
+	regiment = {
+		name= "9-я пехотная дивизия"
+		type = infantry
+		home = 738
+	}
+
+	regiment = {
+		name= "10-я пехотная дивизия"
+		type = infantry
+		home = 751
+	}
+
+	regiment = {
+		name= "11-я пехотная дивизия"
+		type = infantry
+		home = 751
+	}
+
+	regiment = {
+		name= "12-я пехотная дивизия"
+		type = infantry
+		home = 751
+	}
+
+	regiment = {
+		name= "13-я пехотная дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "14-я пехотная дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "15-я пехотная дивизия"
+		type = infantry
+		home = 726
+	}
+
+	regiment = {
+		name= "16-я пехотная дивизия"
+		type = infantry
+		home = 720
+	}
+
+	regiment = {
+		name= "17-я пехотная дивизия"
+		type = infantry
+		home = 720
+	}
+
+	regiment = {
+		name= "18-я пехотная дивизия"
+		type = infantry
+		home = 720
+	}
+
+}
+
+army = {
+	name = "1-й Корпус"
+	location = 754
+	regiment = {
+		name= "1-я пехотная бригада"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "2-я пехотная бригада"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "3-я пехотная бригада"
+		type = infantry
+		home = 754
+	}
+
+	regiment = {
+		name= "4-я пехотная бригада"
+		type = infantry
+		home = 756
+	}
+
+	regiment = {
+		name= "5-я пехотная бригада"
+		type = infantry
+		home = 756
+	}
+
+	regiment = {
+		name= "6-я пехотная бригада"
+		type = infantry
+		home = 756
+	}
+
+	regiment = {
+		name= "7-я пехотная бригада"
+		type = infantry
+		home = 759
+	}
+
+	regiment = {
+		name= "8-я пехотная бригада"
+		type = infantry
+		home = 759
+	}
+
+	regiment = {
+		name= "9-я пехотная бригада"
+		type = infantry
+		home = 759
+	}
+
+}
+
+army = {
+	name = "2-й Корпус"
+	location = 762
+	regiment = {
+		name= "10-я пехотная бригада"
+		type = infantry
+		home = 762
+	}
+
+	regiment = {
+		name= "11-я пехотная бригада"
+		type = infantry
+		home = 762
+	}
+
+	regiment = {
+		name= "12-я пехотная бригада"
+		type = infantry
+		home = 762
+	}
+
+	regiment = {
+		name= "13-я пехотная бригада"
+		type = infantry
+		home = 763
+	}
+
+	regiment = {
+		name= "14-я пехотная бригада"
+		type = infantry
+		home = 763
+	}
+
+	regiment = {
+		name= "15-я пехотная бригада"
+		type = infantry
+		home = 763
+	}
+
+	regiment = {
+		name= "16-я пехотная бригада"
+		type = infantry
+		home = 764
+	}
+
+	regiment = {
+		name= "17-я пехотная бригада"
+		type = infantry
+		home = 764
+	}
+
+	regiment = {
+		name= "18-я пехотная бригада"
+		type = infantry
+		home = 764
+	}
+
+}
+
+navy = {
+	name = "Флот Италии"
+	location = 746
+	ship = {
+		name= "Ре Галантумо"
+		type = manowar
+	}
+
+	ship = {
+		name= "Карло Альберто"
+		type = frigate
+	}
+
+	ship = {
+		name= "Дуча ди Генуа"
+		type = frigate
+	}
+
+	ship = {
+		name= "Гарибальди"
+		type = frigate
+	}
+
+	ship = {
+		name= "Мария Аделаида"
+		type = frigate
+	}
+
+	ship = {
+		name= "Виктор Эммануил"
+		type = frigate
+	}
+
+	ship = {
+		name= "Партернопе"
+		type = frigate
+	}
+
+	ship = {
+		name= "Регина"
+		type = frigate
+	}
+
+	ship = {
+		name= "Сан Мишель"
+		type = frigate
+	}
+
+	ship = {
+		name= "Архимед"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Конституцион"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Эрколе"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Эттора Фьерамоска"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Фулминанте"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Говерноло"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Гискардо"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Роберто"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Ружьеро"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Танчреди"
+		type = commerce_raider
+	}
+
+}
+
+navy = {
+	name = "1-я Транспортная Эскадра"
+	location = 746
+	ship = {
+		name= "1-я транспортная флотилия"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2-я транспортная флотилия"
+		type = clipper_transport
+	}
+
+}
+

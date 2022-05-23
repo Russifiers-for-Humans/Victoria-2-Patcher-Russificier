@@ -1,0 +1,52 @@
+army = {
+	name = "Армия Мексики"
+	location = 2174
+	regiment = {
+		name= "1-я дивизия"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "2-я дивизия"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "3-я дивизия"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "1-й дивизион"
+		type = hussar
+		home = 2174
+	}
+
+}
+
+army = {
+	name = "Восточная Армия"
+	location = 2146
+	regiment = {
+		name= "4-я дивизия"
+		type = infantry
+		home = 2146
+	}
+
+	regiment = {
+		name= "5-я дивизия"
+		type = infantry
+		home = 2146
+	}
+
+	regiment = {
+		name= "6-я дивизия"
+		type = infantry
+		home = 2146
+	}
+
+}
+

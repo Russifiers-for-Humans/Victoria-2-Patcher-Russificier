@@ -1,0 +1,14 @@
+#;;;;;;;;;;;;;x
+badboy; badboy;;;;;;;;;;;;;; x
+EVTNAME60150;Abolition of women's right to vote;;;;;;;;;;;;; x
+EVTDESC60150;With the rollback of electoral reform, women are no longer eligible to vote;;;;;;;;;;;;; x
+EVTOPTA60150; Go back to the kitchen, worthless profursets!;;;;;;;;;;;;;x
+EVTNAME31102;Exodus from Istanbul;;;;;;;;;;;;; x
+EVTDESC31102;Due to the loss of the lands bordering Istanbul, our capital is under threat. We are obliged to move it to a safer place - Ankara;;;;;;;;;;;;; x
+EVTOPTA31102;We are finally expelled from Europe...;;;;;;;;;;;;; x
+OL_REBEL_OCCUPATIONS;Rebel sieges;;;;;;;;;;;;; x
+OL_REBEL_OCCUPATIONS_TOOLTIP;Province 即$PROVINCE$劬 is occupied by rebels!;;;;;;;;;;;;;x
+OL_VIEW_REBEL_OCCUPATIONS;Toggles 即Rebel Occupations劬 view;;;;;;;;;;;;;x
+POP_MIL_CHANGE_REBEL;The population living in the province 即$PROV$劬 is under 刪Rebels劬 control.We cannot assess the aggressiveness in this province.;;;;;;;;;;;;;x
+POP_CON_CHANGE_REBEL;The population living in the province 即$PROV$劬 is under 刪Rebels劬 control.We cannot assess consciousness in this province.;;;;;;;;;;;;;x
+PROJECT_STATE_NAME_DESC;Planning to build in 即$PROV$劬.;;;;;;;;;;;;;x

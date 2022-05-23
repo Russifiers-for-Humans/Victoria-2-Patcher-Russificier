@@ -1,0 +1,136 @@
+army = {
+	name = "Королевская армия"
+	location = 2048
+	regiment = {
+		name= "1-й королевский отряд"
+		type = irregular
+		home = 2048
+	}
+
+	regiment = {
+		name= "2-й королевский отряд"
+		type = irregular
+		home = 2048
+	}
+
+	regiment = {
+		name= "3-й королевский отряд"
+		type = irregular
+		home = 2048
+	}
+
+}
+
+army = {
+	name = "Племенная армия"
+	location = 1869
+	regiment = {
+		name= "1-й племенной отряд"
+		type = irregular
+		home = 1870
+	}
+
+	regiment = {
+		name= "2-й племенной отряд"
+		type = irregular
+		home = 1870
+	}
+
+	regiment = {
+		name= "3-й племенной отряд"
+		type = irregular
+		home = 1870
+	}
+
+	regiment = {
+		name= "4-й племенной отряд"
+		type = irregular
+		home = 1869
+	}
+
+	regiment = {
+		name= "5-й племенной отряд"
+		type = irregular
+		home = 1869
+	}
+
+	regiment = {
+		name= "6-й племенной отряд"
+		type = irregular
+		home = 1869
+	}
+
+	regiment = {
+		name= "7-й племенной отряд"
+		type = irregular
+		home = 2047
+	}
+
+	regiment = {
+		name= "8-й племенной отряд"
+		type = irregular
+		home = 2047
+	}
+
+	regiment = {
+		name= "9-й племенной отряд"
+		type = irregular
+		home = 2047
+	}
+
+	regiment = {
+		name= "10-й племенной отряд"
+		type = irregular
+		home = 2036
+	}
+
+	regiment = {
+		name= "11-й племенной отряд"
+		type = irregular
+		home = 2036
+	}
+
+	regiment = {
+		name= "12-й племенной отряд"
+		type = irregular
+		home = 2036
+	}
+
+	regiment = {
+		name= "13-й племенной отряд"
+		type = irregular
+		home = 2038
+	}
+
+	regiment = {
+		name= "14-й племенной отряд"
+		type = irregular
+		home = 2038
+	}
+
+	regiment = {
+		name= "15-й племенной отряд"
+		type = irregular
+		home = 2038
+	}
+
+	regiment = {
+		name= "16-й племенной отряд"
+		type = irregular
+		home = 2041
+	}
+
+	regiment = {
+		name= "17-й племенной отряд"
+		type = irregular
+		home = 2041
+	}
+
+	regiment = {
+		name= "18-й племенной отряд"
+		type = irregular
+		home = 2041
+	}
+
+}
+

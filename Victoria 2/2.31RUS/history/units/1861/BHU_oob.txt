@@ -1,0 +1,23 @@
+army = {
+	name = "Армия Бутана"
+	location = 1590
+	regiment = {
+		name= "Королевский полк"
+		type = irregular
+		home = 1329
+	}
+
+	regiment = {
+		name= "1-й отряд"
+		type = irregular
+		home = 1329
+	}
+
+	regiment = {
+		name= "2-й отряд"
+		type = irregular
+		home = 1329
+	}
+
+}
+

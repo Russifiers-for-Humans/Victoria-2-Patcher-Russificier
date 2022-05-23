@@ -1,0 +1,77 @@
+army = {
+	name = "Гвардия Хана"
+	location = 1198
+	regiment = {
+		name= "1 киргизский отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "2 киргизский отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "3 киргизкий отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "1-й отряд гвардии Мангытов"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "2-й отряд гвардии Мангытов"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "3-й отряд гвардии Мангытов"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "4-й отряд гвардии Мангытов"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "5-й отряд гвардии Мангытов"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "1 туркменский отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "2 туркменский отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "3 туркменский отряд"
+		type = irregular
+		home = 1405
+	}
+
+	regiment = {
+		name= "1 узбекский отряд"
+		type = irregular
+		home = 1405
+	}
+
+}
+

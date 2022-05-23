@@ -1,0 +1,82 @@
+army = {
+	name = "Армия Юга"
+	location = 2251
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "3-я пехотная дивизия"
+		type = infantry
+		home = 2247
+	}
+
+	regiment = {
+		name= "1-й отряд ополчения"
+		type = irregular
+		home = 2248
+	}
+
+	regiment = {
+		name= "2-й отряд ополчения"
+		type = irregular
+		home = 2248
+	}
+
+	regiment = {
+		name= "3-й отряд ополчения"
+		type = irregular
+		home = 2248
+	}
+
+}
+
+army = {
+	name = "Ejйrcito del Norte"
+	location = 2207
+	regiment = {
+		name= "1.3a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2255
+	}
+
+	regiment = {
+		name= "2.3a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2255
+	}
+
+	regiment = {
+		name= "3.3a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2255
+	}
+
+	regiment = {
+		name= "1.4a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2254
+	}
+
+	regiment = {
+		name= "2.4a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2254
+	}
+
+	regiment = {
+		name= "3.4a Divisiуn de Infanterнa"
+		type = irregular
+		home = 2254
+	}
+
+}
+

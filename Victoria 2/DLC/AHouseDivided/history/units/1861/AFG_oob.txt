@@ -1,0 +1,131 @@
+army = {
+	name = "Royal Army"
+	location = 1216
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1216
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1216
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1216
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1215
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1215
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1215
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1210
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1210
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1210
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1217
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1217
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1217
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1220
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1220
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1220
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1212
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1212
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1212
+	}
+
+	regiment = {
+		name= "1.Tribal Warriors"
+		type = irregular
+		home = 1214
+	}
+
+	regiment = {
+		name= "2.Tribal Warriors"
+		type = irregular
+		home = 1214
+	}
+
+	regiment = {
+		name= "3.Tribal Warriors"
+		type = irregular
+		home = 1214
+	}
+
+}
+

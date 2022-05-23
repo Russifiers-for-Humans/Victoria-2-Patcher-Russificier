@@ -1,0 +1,167 @@
+army = {
+	name = "Королевская армия"
+	location = 2113
+	regiment = {
+		name= "1-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "2-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "3-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "4-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "5-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "6-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "7-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "8-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "9-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "10-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "11-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "12-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "13-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "14-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "15-я бригада"
+		type = irregular
+		home = 2113
+	}
+
+	regiment = {
+		name= "16-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "17-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "18-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "19-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "20-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "21-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "22-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "23-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "24-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "25-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "26-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+	regiment = {
+		name= "27-я бригада"
+		type = irregular
+		home = 2114
+	}
+
+}
+

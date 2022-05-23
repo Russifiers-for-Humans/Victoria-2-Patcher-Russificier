@@ -1,0 +1,516 @@
+army = {
+	name = "Северная Армия"
+	location = 1672
+	regiment = {
+		name= "1.1 отр. Императорской армии"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "2.1 отр. Императорской армии"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "3.1 отр. Императорской армии"
+		type = irregular
+		home = 1639
+	}
+
+	regiment = {
+		name= "1.2 отр. Императорской армии"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "2.2 отр. Императорской армии"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "3.2 отр. Императорской армии"
+		type = irregular
+		home = 1638
+	}
+
+	regiment = {
+		name= "1.3 отр. Императорской армии"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "2.3 отр. Императорской армии"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "3.3 отр. Императорской армии"
+		type = irregular
+		home = 1640
+	}
+
+	regiment = {
+		name= "1.4 отр. Императорской армии"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "2.4 отр. Императорской армии"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "3.4 отр. Императорской армии"
+		type = irregular
+		home = 1641
+	}
+
+	regiment = {
+		name= "1.5 отр. Императорской армии"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "2.5 отр. Императорской армии"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "3.5 отр. Императорской армии"
+		type = irregular
+		home = 1643
+	}
+
+	regiment = {
+		name= "1.6 отр. Императорской армии"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "2.6 отр. Императорской армии"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "3.6 отр. Императорской армии"
+		type = irregular
+		home = 1644
+	}
+
+	regiment = {
+		name= "1.7 отр. Императорской армии"
+		type = irregular
+		home = 1657
+	}
+
+	regiment = {
+		name= "2.7 отр. Императорской армии"
+		type = irregular
+		home = 1657
+	}
+
+	regiment = {
+		name= "3.7 отр. Императорской армии"
+		type = irregular
+		home = 1657
+	}
+
+	regiment = {
+		name= "1.8 отр. Императорской армии"
+		type = irregular
+		home = 1659
+	}
+
+	regiment = {
+		name= "2.8 отр. Императорской армии"
+		type = irregular
+		home = 1659
+	}
+
+	regiment = {
+		name= "3.8 отр. Императорской армии"
+		type = irregular
+		home = 1659
+	}
+
+	regiment = {
+		name= "1.9 отр. Императорской армии"
+		type = irregular
+		home = 1660
+	}
+
+	regiment = {
+		name= "2.9 отр. Императорской армии"
+		type = irregular
+		home = 1660
+	}
+
+	regiment = {
+		name= "3.9 отр. Императорской армии"
+		type = irregular
+		home = 1660
+	}
+
+	regiment = {
+		name= "1.10 отр. Императорской армии"
+		type = irregular
+		home = 1661
+	}
+
+	regiment = {
+		name= "2.10 отр. Императорской армии"
+		type = irregular
+		home = 1661
+	}
+
+	regiment = {
+		name= "3.10 отр. Императорской армии"
+		type = irregular
+		home = 1661
+	}
+
+	regiment = {
+		name= "1.11 отр. Императорской армии"
+		type = irregular
+		home = 1664
+	}
+
+	regiment = {
+		name= "2.11 отр. Императорской армии"
+		type = irregular
+		home = 1664
+	}
+
+	regiment = {
+		name= "3.11 отр. Императорской армии"
+		type = irregular
+		home = 1664
+	}
+
+	regiment = {
+		name= "1.12 отр. Императорской армии"
+		type = irregular
+		home = 1663
+	}
+
+	regiment = {
+		name= "2.12 отр. Императорской армии"
+		type = irregular
+		home = 1663
+	}
+
+	regiment = {
+		name= "3.12 отр. Императорской армии"
+		type = irregular
+		home = 1663
+	}
+
+	regiment = {
+		name= "1.13 отр. Императорской армии"
+		type = irregular
+		home = 1662
+	}
+
+	regiment = {
+		name= "2.13 отр. Императорской армии"
+		type = irregular
+		home = 1662
+	}
+
+	regiment = {
+		name= "3.13 отр. Императорской армии"
+		type = irregular
+		home = 1662
+	}
+
+	regiment = {
+		name= "1.14 отр. Императорской армии"
+		type = irregular
+		home = 1666
+	}
+
+	regiment = {
+		name= "2.14 отр. Императорской армии"
+		type = irregular
+		home = 1666
+	}
+
+	regiment = {
+		name= "3.14 отр. Императорской армии"
+		type = irregular
+		home = 1666
+	}
+
+	regiment = {
+		name= "1.15 отр. Императорской армии"
+		type = irregular
+		home = 1667
+	}
+
+	regiment = {
+		name= "2.15 отр. Императорской армии"
+		type = irregular
+		home = 1667
+	}
+
+	regiment = {
+		name= "3.15 отр. Императорской армии"
+		type = irregular
+		home = 1667
+	}
+
+	regiment = {
+		name= "1.16 отр. Императорской армии"
+		type = irregular
+		home = 1665
+	}
+
+	regiment = {
+		name= "2.16 отр. Императорской армии"
+		type = irregular
+		home = 1665
+	}
+
+	regiment = {
+		name= "3.16 отр. Императорской армии"
+		type = irregular
+		home = 1665
+	}
+
+	regiment = {
+		name= "1.17 отр. Императорской армии"
+		type = irregular
+		home = 1672
+	}
+
+	regiment = {
+		name= "2.17 отр. Императорской армии"
+		type = irregular
+		home = 1672
+	}
+
+	regiment = {
+		name= "3.17 отр. Императорской армии"
+		type = irregular
+		home = 1672
+	}
+
+	regiment = {
+		name= "1.18 отр. Императорской армии"
+		type = irregular
+		home = 1670
+	}
+
+	regiment = {
+		name= "2.18 отр. Императорской армии"
+		type = irregular
+		home = 1670
+	}
+
+	regiment = {
+		name= "3.18 отр. Императорской армии"
+		type = irregular
+		home = 1670
+	}
+
+	regiment = {
+		name= "1.19 отр. Императорской армии"
+		type = irregular
+		home = 1671
+	}
+
+	regiment = {
+		name= "2.19 отр. Императорской армии"
+		type = irregular
+		home = 1671
+	}
+
+	regiment = {
+		name= "3.19 отр. Императорской армии"
+		type = irregular
+		home = 1671
+	}
+
+	regiment = {
+		name= "1.20 отр. Императорской армии"
+		type = irregular
+		home = 1668
+	}
+
+	regiment = {
+		name= "2.20 отр. Императорской армии"
+		type = irregular
+		home = 1668
+	}
+
+	regiment = {
+		name= "3.20 отр. Императорской армии"
+		type = irregular
+		home = 1668
+	}
+
+	regiment = {
+		name= "1.21 отр. Императорской армии"
+		type = irregular
+		home = 1673
+	}
+
+	regiment = {
+		name= "2.21 отр. Императорской армии"
+		type = irregular
+		home = 1673
+	}
+
+	regiment = {
+		name= "3.21 отр. Императорской армии"
+		type = irregular
+		home = 1673
+	}
+
+	regiment = {
+		name= "1.22 отр. Императорской армии"
+		type = irregular
+		home = 1669
+	}
+
+	regiment = {
+		name= "2.22 отр. Императорской армии"
+		type = irregular
+		home = 1669
+	}
+
+	regiment = {
+		name= "3.22 отр. Императорской армии"
+		type = irregular
+		home = 1669
+	}
+
+}
+
+army = {
+	name = "Армия Сикоку"
+	location = 1666
+	regiment = {
+		name= "1.23 отр. Императорской армии"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "2.23 отр. Императорской армии"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "3.23 отр. Императорской армии"
+		type = irregular
+		home = 1674
+	}
+
+	regiment = {
+		name= "1.24 отр. Императорской армии"
+		type = irregular
+		home = 1675
+	}
+
+	regiment = {
+		name= "2.24 отр. Императорской армии"
+		type = irregular
+		home = 1675
+	}
+
+	regiment = {
+		name= "3.24 отр. Императорской армии"
+		type = irregular
+		home = 1675
+	}
+
+	regiment = {
+		name= "1.25 отр. Императорской армии"
+		type = irregular
+		home = 1677
+	}
+
+	regiment = {
+		name= "2.25 отр. Императорской армии"
+		type = irregular
+		home = 1677
+	}
+
+	regiment = {
+		name= "3.25 отр. Императорской армии"
+		type = irregular
+		home = 1677
+	}
+
+	regiment = {
+		name= "1.26 отр. Императорской армии"
+		type = irregular
+		home = 1676
+	}
+
+	regiment = {
+		name= "2.26 отр. Императорской армии"
+		type = irregular
+		home = 1676
+	}
+
+	regiment = {
+		name= "3.26 отр. Императорской армии"
+		type = irregular
+		home = 1676
+	}
+
+	regiment = {
+		name= "1.27 отр. Императорской армии"
+		type = irregular
+		home = 1646
+	}
+
+	regiment = {
+		name= "2.27 отр. Императорской армии"
+		type = irregular
+		home = 1646
+	}
+
+	regiment = {
+		name= "3.27 отр. Императорской армии"
+		type = irregular
+		home = 1646
+	}
+
+}
+
+navy = {
+	name = "Japanese Fleet"
+	location = 1650
+	ship = {
+		name= "Чойо Мару"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Канко Мару"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Канрин Мару"
+		type = commerce_raider
+	}
+
+}
+

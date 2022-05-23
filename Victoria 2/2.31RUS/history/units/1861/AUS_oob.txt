@@ -1,0 +1,883 @@
+#Sphere of Influence
+
+HAN = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAD = {	
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+BAV = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+WUR = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+SAX = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+KRA = {
+	value = 125
+	level = 5
+	influence_value = 25
+}
+
+SER = {
+	value = 75
+	level = 2
+	influence_value = 25
+}
+
+PAP = {
+	value = 125
+	level = 3
+	influence_value = 25
+}
+
+SWI = {
+	value = 125
+	level = 3
+	influence_value = 25
+}
+
+DEN = {
+	value = 55
+} 
+
+PRU = {
+	value = 80
+}
+
+RUS = {
+	value = 80
+}
+
+army = {
+	name = "Славонский Погран. Корпус"
+	location = 771
+	regiment = {
+		name= "1-я погран. дивизия"
+		type = infantry
+		home = 771
+	}
+
+	regiment = {
+		name= "2-я погран. дивизия"
+		type = infantry
+		home = 771
+	}
+
+	regiment = {
+		name= "2-я погран. дивизия"
+		type = infantry
+		home = 771
+	}
+
+	regiment = {
+		name= "3-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "4-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "5-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "6-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+	regiment = {
+		name= "2.3. 7-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+	regiment = {
+		name= "8-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+}
+
+army = {
+	name = "Валашский Погран. Корпус"
+	location = 659
+	regiment = {
+		name= "9-я погран. див"
+		type = infantry
+		home = 652
+	}
+
+	regiment = {
+		name= "10-я погран. дивизия"
+		type = infantry
+		home = 652
+	}
+
+	regiment = {
+		name= "11-я погран. дивизия"
+		type = infantry
+		home = 652
+	}
+
+	regiment = {
+		name= "12-я погран. дивизия"
+		type = infantry
+		home = 651
+	}
+
+	regiment = {
+		name= "13-я погран. дивизия"
+		type = infantry
+		home = 651
+	}
+
+	regiment = {
+		name= "14-я погран. дивизия"
+		type = infantry
+		home = 651
+	}
+
+	regiment = {
+		name= "15-я погран. дивизия"
+		type = infantry
+		home = 650
+	}
+
+	regiment = {
+		name= "16-я погран. дивизия"
+		type = infantry
+		home = 650
+	}
+
+	regiment = {
+		name= "17-я погран. дивизия"
+		type = infantry
+		home = 650
+	}
+
+}
+
+army = {
+	name = "Хорватский Погран. Корпус"
+	location = 772
+	regiment = {
+		name= "18-я погран. дивизия"
+		type = infantry
+		home = 772
+	}
+
+	regiment = {
+		name= "19-я погран. дивизия"
+		type = infantry
+		home = 772
+	}
+
+	regiment = {
+		name= "20-я погран. дивизия"
+		type = infantry
+		home = 772
+	}
+
+	regiment = {
+		name= "21-я погран. дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "22-я погран. дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "23-я погран. дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "24-я погран. дивизия"
+		type = infantry
+		home = 774
+	}
+
+	regiment = {
+		name= "25-я погран. дивизия"
+		type = infantry
+		home = 774
+	}
+
+	regiment = {
+		name= "26-я погран. дивизия"
+		type = infantry
+		home = 774
+	}
+
+}
+
+army = {
+	name = "Сербский Погран. Корпус"
+	location = 653
+	regiment = {
+		name= "27-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "28-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "29-я погран. дивизия"
+		type = infantry
+		home = 767
+	}
+
+	regiment = {
+		name= "30-я погран. дивизия"
+		type = infantry
+		home = 653
+	}
+
+	regiment = {
+		name= "31-я погран. дивизия"
+		type = infantry
+		home = 653
+	}
+
+	regiment = {
+		name= "32-я погран. дивизия"
+		type = infantry
+		home = 653
+	}
+
+	regiment = {
+		name= "33-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+	regiment = {
+		name= "34-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+	regiment = {
+		name= "35-я погран. дивизия"
+		type = infantry
+		home = 768
+	}
+
+}
+
+army = {
+	name = "1-й Армейский Корпус"
+	location = 619
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 619
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 619
+	}
+
+	regiment = {
+		name= "3-я пехотная дивизия"
+		type = infantry
+		home = 619
+	}
+
+	regiment = {
+		name= "1-й артиллерийский дивизион"
+		type = artillery
+		home = 619
+	}
+
+	regiment = {
+		name= "4-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "5-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "6-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "7-я пехотная дивизия"
+		type = infantry
+		home = 645
+	}
+
+	regiment = {
+		name= "8-я пехотная дивизия"
+		type = infantry
+		home = 645
+	}
+
+	regiment = {
+		name= "9-я пехотная дивизия"
+		type = infantry
+		home = 645
+	}
+
+}
+
+army = {
+	name = "2-й Армейский Корпус"
+	location = 613
+	regiment = {
+		name= "10-я пехотная дивизия"
+		type = infantry
+		home = 613
+	}
+
+	regiment = {
+		name= "11-я пехотная дивизия"
+		type = infantry
+		home = 613
+	}
+
+	regiment = {
+		name= "12-я пехотная дивизия"
+		type = infantry
+		home = 613
+	}
+
+	regiment = {
+		name= "2-й артиллерийский дивизион"
+		type = artillery
+		home = 613
+	}
+
+	regiment = {
+		name= "13-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "14-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "15-я пехотная дивизия"
+		type = infantry
+		home = 0
+	}
+
+	regiment = {
+		name= "16-я пехотная дивизия"
+		type = infantry
+		home = 648
+	}
+
+	regiment = {
+		name= "17-я пехотная дивизия"
+		type = infantry
+		home = 648
+	}
+
+	regiment = {
+		name= "18-я пехотная дивизия"
+		type = infantry
+		home = 648
+	}
+
+}
+
+army = {
+	name = "4-й Армейский Корпус"
+	location = 617
+	regiment = {
+		name= "19-я пехотная дивизия"
+		type = infantry
+		home = 617
+	}
+
+	regiment = {
+		name= "20-я пхеотная дивизия"
+		type = infantry
+		home = 617
+	}
+
+	regiment = {
+		name= "21-я пехотная дивизия"
+		type = infantry
+		home = 617
+	}
+
+	regiment = {
+		name= "3-й артиллерийский дивизион"
+		type = artillery
+		home = 617
+	}
+
+	regiment = {
+		name= "22-я пехотная дивизия"
+		type = infantry
+		home = 615
+	}
+
+	regiment = {
+		name= "23-я пехотная дивизия"
+		type = infantry
+		home = 615
+	}
+
+	regiment = {
+		name= "24-я пехотная дивизия"
+		type = infantry
+		home = 615
+	}
+
+	regiment = {
+		name= "25-я пехотная дивизия"
+		type = infantry
+		home = 643
+	}
+
+	regiment = {
+		name= "26-я пехотная дивизия"
+		type = infantry
+		home = 643
+	}
+
+	regiment = {
+		name= "27-я пехотная дивизия"
+		type = infantry
+		home = 643
+	}
+
+}
+
+army = {
+	name = "5-й Армейский Корпус"
+	location = 614
+	regiment = {
+		name= "28-я пехотная дивизия"
+		type = infantry
+		home = 618
+	}
+
+	regiment = {
+		name= "29-я пехотная дивизия"
+		type = infantry
+		home = 618
+	}
+
+	regiment = {
+		name= "30-я пехотная дивизия"
+		type = infantry
+		home = 618
+	}
+
+	regiment = {
+		name= "4-й артиллерийский дивизион"
+		type = artillery
+		home = 618
+	}
+
+	regiment = {
+		name= "31-я пехотная дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "32-я пехотная дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "33-я пехотная дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "34-я пехотная дивизия"
+		type = infantry
+		home = 640
+	}
+
+	regiment = {
+		name= "35-я пехотная дивизия"
+		type = infantry
+		home = 640
+	}
+
+	regiment = {
+		name= "36-я пехотная дивизия"
+		type = infantry
+		home = 640
+	}
+
+}
+
+army = {
+	name = "11-й Армейский Корпус"
+	location = 735
+	regiment = {
+		name= "1-я егерская дивизия"
+		type = infantry
+		home = 735
+	}
+
+	regiment = {
+		name= "2-я егерская дивизия"
+		type = infantry
+		home = 735
+	}
+
+	regiment = {
+		name= "3-я егерская дивизия"
+		type = infantry
+		home = 735
+	}
+
+	regiment = {
+		name= "1-я инжерная бригада"
+		type = engineer
+		home = 735
+	}
+
+	regiment = {
+		name= "4-я егерская дивизия"
+		type = infantry
+		home = 612
+	}
+
+	regiment = {
+		name= "5-я егерская дивизия"
+		type = infantry
+		home = 612
+	}
+
+	regiment = {
+		name= "6-я егерская дивизия"
+		type = infantry
+		home = 612
+	}
+
+	regiment = {
+		name= "2-я инженераная бригада"
+		type = engineer
+		home = 612
+	}
+
+	regiment = {
+		name= "7-я егерская дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "8-я егерская дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "9-я егерская дивизия"
+		type = infantry
+		home = 614
+	}
+
+	regiment = {
+		name= "10-я егерская дивизия"
+		type = engineer
+		home = 614
+	}
+
+}
+
+
+
+
+
+army = {
+	name = "8-й Армейский Корпус"
+	location = 628
+	regiment = {
+		name= "37-я пехотная дивизия"
+		type = infantry
+		home = 628
+	}
+
+	regiment = {
+		name= "38-я пехотная дивизия"
+		type = infantry
+		home = 628
+	}
+
+	regiment = {
+		name= "39-я пехотная дивизия"
+		type = infantry
+		home = 628
+	}
+
+	regiment = {
+		name= "5-й артиллерийский дивизион"
+		type = artillery
+		home = 628
+	}
+
+	regiment = {
+		name= "40-я пехотная дивизия"
+		type = infantry
+		home = 629
+	}
+
+	regiment = {
+		name= "41-я пехотная дивизия"
+		type = infantry
+		home = 629
+	}
+
+	regiment = {
+		name= "42-я пехотная дивизия"
+		type = infantry
+		home = 629
+	}
+
+	regiment = {
+		name= "43-я пехотная дивизия"
+		type = infantry
+		home = 625
+	}
+
+	regiment = {
+		name= "44-я пехотная дивизия"
+		type = infantry
+		home = 625
+	}
+
+	regiment = {
+		name= "45-я пехотная дивизия"
+		type = infantry
+		home = 625
+	}
+
+}
+
+army = {
+	name = "1-й Кавалерийский Корпус"
+	location = 619
+	regiment = {
+		name= "1-й кавалерийский дивизион"
+		type = cavalry
+		home = 619
+	}
+
+	regiment = {
+		name= "2-й кавалерийский дивизион"
+		type = cavalry
+		home = 619
+	}
+
+	regiment = {
+		name= "3-й кавалерийский дивизион"
+		type = cavalry
+		home = 619
+	}
+
+	regiment = {
+		name= "4-й кавалерийский дивизион"
+		type = cavalry
+		home = 613
+	}
+
+	regiment = {
+		name= "5-й кавалерийский дивизион"
+		type = cavalry
+		home = 613
+	}
+
+	regiment = {
+		name= "6-й кавалерийский дивизион"
+		type = cavalry
+		home = 613
+	}
+
+	regiment = {
+		name= "7-й кавалерийский дивизион"
+		type = cavalry
+		home = 625
+	}
+
+	regiment = {
+		name= "8-й кавалерийский дивизион"
+		type = cavalry
+		home = 625
+	}
+
+	regiment = {
+		name= "9-й кавалерийский дивизион"
+		type = cavalry
+		home = 625
+	}
+
+}
+
+army = {
+	name = "2-й Кавалерийский Корпус"
+	location = 641
+	regiment = {
+		name= "1-й драгунский дивизион"
+		type = dragoon
+		home = 619
+	}
+
+	regiment = {
+		name= "2-й драгунский дивизион"
+		type = dragoon
+		home = 619
+	}
+
+	regiment = {
+		name= "3-й драгунский дивизион"
+		type = dragoon
+		home = 619
+	}
+
+	regiment = {
+		name= "4-й драгунский дивизион"
+		type = dragoon
+		home = 642
+	}
+
+	regiment = {
+		name= "6-й драгунский дивизион"
+		type = dragoon
+		home = 642
+	}
+
+	regiment = {
+		name= "7-й драгунский дивизион"
+		type = dragoon
+		home = 642
+	}
+
+	regiment = {
+		name= "8-й драгунский дивизион"
+		type = dragoon
+		home = 641
+	}
+
+	regiment = {
+		name= "9-й драгунский дивизион"
+		type = dragoon
+		home = 641
+	}
+
+	regiment = {
+		name= "10-й драгунский дивизион"
+		type = dragoon
+		home = 641
+	}
+
+}
+
+navy = {
+	name = "Императорский Австрийский Флот"
+	location = 736
+	ship = {
+		name= "SMS Фердинанд Макс"
+		type = manowar
+	}
+
+	ship = {
+		name= "SMS Шварценберг"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Аврора"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Донау"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Беллона"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Новара"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Радетски"
+		type = frigate
+	}
+
+	ship = {
+		name= "SMS Kaйзер"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "SMS Гельголанд"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "SMS Фрюндсберг"
+		type = commerce_raider
+	}
+
+}
+

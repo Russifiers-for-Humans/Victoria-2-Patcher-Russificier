@@ -1,0 +1,41 @@
+monitor = {
+	icon = 10
+	
+	type = naval
+	sprite = Monitor
+	unit_type = light_ship
+	floating_flag = yes
+	active = no
+	move_sound = steam_move
+	select_sound = steam_selected
+
+
+	#Core Abilities
+	priority = 30
+	max_strength = 100
+	default_organisation = 30
+	maximum_speed = 3
+	weighted_value = 7.0
+
+
+	#Building Costs
+	build_time = 360
+	build_cost = {
+		steamer_convoy = 20
+		artillery = 6
+		canned_food = 10
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		steamer_convoy = 0.32
+		artillery = 0.096
+		canned_food = 0.8
+	}
+	
+
+	#Naval Abilties
+	hull = 20
+	gun_power = 5
+}
+

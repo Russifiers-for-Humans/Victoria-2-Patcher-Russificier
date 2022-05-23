@@ -1,0 +1,77 @@
+army = {
+	name = "Королевская армия"
+	location = 1726
+	regiment = {
+		name= "1-й королевский отряд"
+		type = infantry
+		home = 1726
+	}
+
+	regiment = {
+		name= "2-й королевский отряд"
+		type = infantry
+		home = 1726
+	}
+
+	regiment = {
+		name= "3-й королевский отряд"
+		type = infantry
+		home = 1726
+	}
+
+	regiment = {
+		name= "4-й королевский отряд"
+		type = cavalry
+		home = 1730
+	}
+
+	regiment = {
+		name= "5-й королевский отряд"
+		type = cavalry
+		home = 1730
+	}
+
+	regiment = {
+		name= "6-й королевский отряд"
+		type = cavalry
+		home = 1730
+	}
+
+	regiment = {
+		name= "7-й королевский отряд"
+		type = cavalry
+		home = 1728
+	}
+
+	regiment = {
+		name= "8-й королевский отряд"
+		type = cavalry
+		home = 1728
+	}
+
+	regiment = {
+		name= "9-й королевский отряд"
+		type = cavalry
+		home = 1728
+	}
+
+	regiment = {
+		name= "10-й королевский отряд"
+		type = infantry
+		home = 1729
+	}
+
+	regiment = {
+		name= "11-й королевский отряд"
+		type = infantry
+		home = 1729
+	}
+
+	regiment = {
+		name= "12-й королевский отряд"
+		type = infantry
+		home = 1729
+	}
+
+}
+

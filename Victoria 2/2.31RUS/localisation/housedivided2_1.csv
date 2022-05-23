@@ -1,0 +1,30 @@
+PV_INTERNAL_IMMIGRATION;Внутренняя иммиграция:;x
+PV_EXTERNAL_IMMIGRATION;Внешняя иммиграция:;x
+COUNTRYALERT_CanRemoveFromSphere;Мы можем убрать страны из нашей §YSphere of Influence§!: ;x
+PV_CLERGY_LIT_DESC1;$NUM$  населения в  $LOC$ - священники.;x
+PV_CLERGY_LIT_DESC2;Оптимально: $OPT$.;x
+PV_CLERGY_LIT_DESC3;Ежемесячно изменяется (базовое значение): $VAL$;x
+IN_SOCIAL_MOVEMENT;в общественном движении;x
+NOT_IN_SOCIAL_MOVEMENT;не в общественном движении;x
+IN_POLITICAL_MOVEMENT;в политическом движении;x
+NOT_IN_POLITICAL_MOVEMENT;не в политическом движении;x
+the_meiji_restoration2_title;Реставрация Мэйдзи;x
+the_meiji_restoration2_desc;Традиционно считается что Япония была основана императором Дзимму в 660 г. до н. э. И хотя с тех пор императорский род ни разу не прерывался, вплоть до периода Эдо император не имел реальной политической власти. Только Мэйдзи удалось изменить ситуацию. Восстановление императорского правления, программа быстрой модернизации промышленности, конституционализм и экономические свободы помогут Японии  разорвать оковы,  навязанные ей западным миром.;x
+Workforce;Рабочая сила;
+Ideology;Идеология;
+Culture;Культура;
+Start Research;Начать исследование;
+TPG;Небесное Царство;X
+TPG_democracy;Республика Тайпин;;X
+TPG_bourgeois_dictatorship;Республика Тайпин;X
+TPG_proletarian_dictatorship;Коммунистический тайпин;X
+TPG_fascist_dictatorship;Тайпин;X
+TPG_presidential_dictatorship;Клика тайпинов;X
+TPG_ADJ;Тайпин;;X
+TPG_conservative;Уэст-Кинг;X
+TPG_liberal;Йи Кинг;X
+TPG_reactionary;Восточный король;;X
+TPG_socialist;Северный король;;X
+TPG_anarcho_liberal;Радикальная фракция;X
+TPG_communist;Коммунистическая фракция;X
+TPG_fascist;Фашистская фракция;;X

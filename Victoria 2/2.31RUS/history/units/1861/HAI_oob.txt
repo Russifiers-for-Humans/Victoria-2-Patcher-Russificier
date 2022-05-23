@@ -1,0 +1,10 @@
+navy = {
+	name = "Флот"
+	location = 2215
+	ship = {
+		name= "Гаити"
+		type = frigate
+	}
+
+}
+

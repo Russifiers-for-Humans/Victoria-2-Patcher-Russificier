@@ -1,0 +1,59 @@
+army = {
+	name = "Oranje Army"
+	location = 2103
+	regiment = {
+		name= "1.1. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "2.1. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "3.1. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "1.2. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "2.2. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "3.2. Boer Militia"
+		type = infantry
+		home = 2103
+	}
+
+	regiment = {
+		name= "1.3. Boer Militia"
+		type = infantry
+		home = 2102
+	}
+
+	regiment = {
+		name= "2.3. Boer Militia"
+		type = infantry
+		home = 2102
+	}
+
+	regiment = {
+		name= "3.3. Boer Militia"
+		type = infantry
+		home = 2102
+	}
+
+}
+
